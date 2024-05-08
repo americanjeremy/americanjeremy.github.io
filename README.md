@@ -1,1 +1,0 @@
-# americanjeremy.github.io
