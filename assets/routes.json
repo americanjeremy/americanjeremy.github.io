@@ -1,36 +1,30 @@
 {
-  "run": {
-    "trainer1": "Soc",
-    "trainer2": "Rin",
-    "trainer3": "Jer",
-    "currentLocationId": "001"
-  },
   "routes": [
     {
       "id": "1",
       "name": "Route 101",
-      "trainer1CatchId" : "",
+      "trainer1CatchId" : "14",
       "trainer2CatchId" : "",
       "trainer3CatchId" : ""
     },
     {
       "id": "2",
       "name": "Route 102",
-      "trainer1CatchId" : "",
+      "trainer1CatchId" : "13",
       "trainer2CatchId" : "",
       "trainer3CatchId" : ""
     },
     {
       "id": "3",
       "name": "Route 103",
-      "trainer1CatchId" : "",
+      "trainer1CatchId" : "8",
       "trainer2CatchId" : "",
       "trainer3CatchId" : ""
     },
     {
       "id": "4",
       "name": "Route 104",
-      "trainer1CatchId" : "",
+      "trainer1CatchId" : "4",
       "trainer2CatchId" : "",
       "trainer3CatchId" : ""
     },
@@ -44,14 +38,14 @@
     {
       "id": "6",
       "name": "Route 106",
-      "trainer1CatchId" : "",
+      "trainer1CatchId" : "5",
       "trainer2CatchId" : "",
       "trainer3CatchId" : ""
     },
     {
       "id": "7",
       "name": "Route 107",
-      "trainer1CatchId" : "",
+      "trainer1CatchId" : "10",
       "trainer2CatchId" : "",
       "trainer3CatchId" : ""
     },
@@ -65,14 +59,14 @@
     {
       "id": "9",
       "name": "Route 109",
-      "trainer1CatchId" : "",
+      "trainer1CatchId" : "12",
       "trainer2CatchId" : "",
       "trainer3CatchId" : ""
     },
     {
       "id": "10",
       "name": "Route 110",
-      "trainer1CatchId" : "",
+      "trainer1CatchId" : "7",
       "trainer2CatchId" : "",
       "trainer3CatchId" : ""
     },
@@ -114,7 +108,7 @@
     {
       "id": "16",
       "name": "Route 116",
-      "trainer1CatchId" : "",
+      "trainer1CatchId" : "6",
       "trainer2CatchId" : "",
       "trainer3CatchId" : ""
     },
@@ -247,7 +241,7 @@
     {
       "id": "35",
       "name": "Littleroot Town",
-      "trainer1CatchId": "",
+      "trainer1CatchId": "1",
       "trainer2CatchId": "",
       "trainer3CatchId": ""
     },
@@ -261,7 +255,7 @@
     {
       "id": "37",
       "name": "Petalburg Woods",
-      "trainer1CatchId": "",
+      "trainer1CatchId": "2",
       "trainer2CatchId": "",
       "trainer3CatchId": ""
     },
@@ -275,28 +269,28 @@
     {
       "id": "39",
       "name": "Rusturf Tunnel",
-      "trainer1CatchId": "",
+      "trainer1CatchId": "9",
       "trainer2CatchId": "",
       "trainer3CatchId": ""
     },
     {
       "id": "40",
       "name": "Dewford Town",
-      "trainer1CatchId": "",
+      "trainer1CatchId": "3",
       "trainer2CatchId": "",
       "trainer3CatchId": ""
     },
     {
       "id": "41",
       "name": "Granite Cave",
-      "trainer1CatchId": "",
+      "trainer1CatchId": "11",
       "trainer2CatchId": "",
       "trainer3CatchId": ""
     },
     {
       "id": "42",
       "name": "Slateport City",
-      "trainer1CatchId": "",
+      "trainer1CatchId": "15",
       "trainer2CatchId": "",
       "trainer3CatchId": ""
     },
@@ -425,33 +419,6 @@
       "trainer1CatchId": "",
       "trainer2CatchId": "",
       "trainer3CatchId": ""
-    }
-  ],
-
-  "pokemonInstance": [
-    {
-      "id": "1",
-      "nickname": "",
-      "route": "",
-      "dateCatch": "",
-      "dateFaint": "",
-      "dexNumber": ""
-    },
-    {
-      "id": "2",
-      "nickname": "",
-      "route": "",
-      "dateCatch": "",
-      "dateFaint": "",
-      "dexNumber": ""
-    },
-    {
-      "id": "3",
-      "nickname": "",
-      "route": "",
-      "dateCatch": "",
-      "dateFaint": "",
-      "dexNumber": ""
     }
   ]
 }

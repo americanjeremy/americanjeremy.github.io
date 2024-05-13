@@ -1,0 +1,123 @@
+{
+  "pokemonInstance": [
+    {
+      "id": "1",
+      "nickname": "Magic Guy",
+      "route": "Littleroot Town",
+      "dateCatch": "May 6th",
+      "dateFaint": "",
+      "dexNumber": "158"
+    },
+    {
+      "id": "2",
+      "nickname": "Cambrother",
+      "route": "Petalburg Woods",
+      "dateCatch": "May 11th",
+      "dateFaint": "",
+      "dexNumber": "139"
+    },
+    {
+      "id": "3",
+      "nickname": "Guster",
+      "route": "Dewford City",
+      "dateCatch": "May 12th",
+      "dateFaint": "",
+      "dexNumber": "2"
+    },
+    {
+      "id": "4",
+      "nickname": "Tortilla",
+      "route": "Route 104",
+      "dateCatch": "May 6th",
+      "dateFaint": "",
+      "dexNumber": "104"
+    },
+    {
+      "id": "5",
+      "nickname": "Eye Brows",
+      "route": "Route 106",
+      "dateCatch": "May 12th",
+      "dateFaint": "",
+      "dexNumber": "361"
+    },
+    {
+      "id": "6",
+      "nickname": "Melon Lord",
+      "route": "Route 116",
+      "dateCatch": "May 12th",
+      "dateFaint": "",
+      "dexNumber": "85"
+    },
+    {
+      "id": "7",
+      "nickname": "Medusa",
+      "route": "Route 110",
+      "dateCatch": "May 12th",
+      "dateFaint": "",
+      "dexNumber": "200"
+    },
+    {
+      "id": "8",
+      "nickname": "Tony Hawk",
+      "route": "Route 103",
+      "dateCatch": "May 6th",
+      "dateFaint": "",
+      "dexNumber": "375"
+    },
+    {
+      "id": "9",
+      "nickname": "Red Lobsta",
+      "route": "Rusturf Tunnel",
+      "dateCatch": "May 12th",
+      "dateFaint": "",
+      "dexNumber": "341"
+    },
+
+    {
+      "id": "10",
+      "nickname": "S. Yelnats",
+      "route": "Route 107",
+      "dateCatch": "May 12th",
+      "dateFaint": "",
+      "dexNumber": "35"
+    },    {
+      "id": "11",
+      "nickname": "Franco",
+      "route": "Granite Cave",
+      "dateCatch": "May 12th",
+      "dateFaint": "",
+      "dexNumber": "20"
+    },    {
+      "id": "12",
+      "nickname": "Kyle",
+      "route": "Route 109",
+      "dateCatch": "May 12th",
+      "dateFaint": "",
+      "dexNumber": "231"
+    },
+    {
+      "id": "13",
+      "nickname": "Kawalski",
+      "route": "Route 102",
+      "dateCatch": "May 6th",
+      "dateFaint": "May 7th",
+      "dexNumber": "134"
+    },
+    {
+      "id": "14",
+      "nickname": "yuck",
+      "route": "Route 101",
+      "dateCatch": "May 6th",
+      "dateFaint": "May 12th",
+      "dexNumber": "124"
+    },
+    {
+      "id": "15",
+      "nickname": "FAILED ENCOUNTER",
+      "route": "Slateport City",
+      "dateCatch": "May 12th",
+      "dateFaint": "May 12th",
+      "dexNumber": "63"
+    }
+  ]
+}
