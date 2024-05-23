@@ -310,7 +310,7 @@
       "number": "35",
       "sprite": "/assets/sprites/35.png",
       "name": "Clefairy",
-      "type1": "Fairy",
+      "type1": "Normal",
       "type2": ""
 ,
 "baseStat": "323"
@@ -319,7 +319,7 @@
       "number": "36",
       "sprite": "/assets/sprites/.png",
       "name": "Clefable",
-      "type1": "Fairy",
+      "type1": "Normal",
       "type2": ""
 ,
 "baseStat": "473"
@@ -347,7 +347,7 @@
       "sprite": "/assets/sprites/.png",
       "name": "Jigglypuff",
       "type1": "Normal",
-      "type2": "Fairy"
+      "type2": ""
 ,
 "baseStat": "270"
     },
@@ -356,7 +356,7 @@
       "sprite": "/assets/sprites/.png",
       "name": "Wigglytuff",
       "type1": "Normal",
-      "type2": "Fairy"
+      "type2": ""
 ,
 "baseStat": "425"
     },
@@ -1094,7 +1094,7 @@
       "sprite": "/assets/sprites/.png",
       "name": "Mr. Mime",
       "type1": "Psychic",
-      "type2": "Fairy"
+      "type2": ""
 ,
 "baseStat": "460"
     },
@@ -1552,7 +1552,7 @@
       "number": "173",
       "sprite": "/assets/sprites/.png",
       "name": "Cleffa",
-      "type1": "Fairy",
+      "type1": "Normal",
       "type2": ""
 ,
 "baseStat": "218"
@@ -1562,7 +1562,7 @@
       "sprite": "/assets/sprites/.png",
       "name": "Igglybuff",
       "type1": "Normal",
-      "type2": "Fairy"
+      "type2": "Normal"
 ,
 "baseStat": "210"
     },
@@ -1570,7 +1570,7 @@
       "number": "175",
       "sprite": "/assets/sprites/.png",
       "name": "Togepi",
-      "type1": "Fairy",
+      "type1": "Normal",
       "type2": ""
 ,
 "baseStat": "245"
@@ -1579,7 +1579,7 @@
       "number": "176",
       "sprite": "/assets/sprites/.png",
       "name": "Togetic",
-      "type1": "Fairy",
+      "type1": "Normal",
       "type2": "Flying"
 ,
 "baseStat": "405"
@@ -1643,7 +1643,7 @@
       "sprite": "/assets/sprites/.png",
       "name": "Marill",
       "type1": "Water",
-      "type2": "Fairy"
+      "type2": ""
 ,
 "baseStat": "250"
     },
@@ -1652,7 +1652,7 @@
       "sprite": "/assets/sprites/.png",
       "name": "Azumarill",
       "type1": "Water",
-      "type2": "Fairy"
+      "type2": ""
 ,
 "baseStat": "410"
     },
@@ -1876,7 +1876,7 @@
       "number": "209",
       "sprite": "/assets/sprites/.png",
       "name": "Snubbull",
-      "type1": "Fairy",
+      "type1": "Normal",
       "type2": ""
 ,
 "baseStat": "300"
@@ -1885,7 +1885,7 @@
       "number": "210",
       "sprite": "/assets/sprites/.png",
       "name": "Granbull",
-      "type1": "Fairy",
+      "type1": "Normal",
       "type2": ""
 ,
 "baseStat": "450"
@@ -2516,7 +2516,7 @@
       "sprite": "/assets/sprites/.png",
       "name": "Ralts",
       "type1": "Psychic",
-      "type2": "Fairy"
+      "type2": ""
 ,
 "baseStat": "198"
     },
@@ -2525,7 +2525,7 @@
       "sprite": "/assets/sprites/.png",
       "name": "Kirlia",
       "type1": "Psychic",
-      "type2": "Fairy"
+      "type2": ""
 ,
 "baseStat": "278"
     },
@@ -2534,7 +2534,7 @@
       "sprite": "/assets/sprites/.png",
       "name": "Gardevoir",
       "type1": "Psychic",
-      "type2": "Fairy"
+      "type2": ""
 ,
 "baseStat": "518"
     },
@@ -2678,7 +2678,7 @@
       "sprite": "/assets/sprites/.png",
       "name": "Azurill",
       "type1": "Normal",
-      "type2": "Fairy"
+      "type2": ""
 ,
 "baseStat": "190"
     },
@@ -2723,7 +2723,7 @@
       "sprite": "/assets/sprites/.png",
       "name": "Mawile",
       "type1": "Steel",
-      "type2": "Fairy"
+      "type2": ""
 ,
 "baseStat": "380"
     },
