@@ -1,0 +1,942 @@
+{
+  "pokemon": [
+    {
+      "number": "1",
+      "name": "Bulbasaur",
+      "type1": "Grass",
+      "type2": "Poison",
+      "baseStat": "318",
+      "funFacts": [
+        "This pokemon is known as the Seed Pokémon.",
+        "This pokemon is the only unevolved dual-type starter Pokémon.",
+        "This pokemon has a bulb on its back that grows into a large plant as it evolves.",
+        "This pokemon can survive for days solely on sunlight.",
+        "In the Pokémon anime, Ash's of this pokemon refused to evolve."
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Venusaur",
+      "type1": "Grass",
+      "type2": "Poison",
+      "baseStat": "525",
+      "funFacts": [
+        "This pokemon's flower releases a soothing aroma that calms its opponents.",
+        "This pokemon can harness solar energy to launch Solar Beam attacks.",
+        "This pokemon's flower blooms more vividly after a rainy day.",
+        "In Mega Evolution, This pokemon gains thick fat that reduces damage from Fire and Ice-type moves.",
+        "This pokemon appears in the Super Smash Bros. series as a Poké Ball summon."
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Charmander",
+      "type1": "Fire",
+      "type2": "",
+      "baseStat": "309",
+      "funFacts": [
+        "This pokemon's tail flame indicates its health and mood.",
+        "If This pokemon's tail flame goes out, it is said to die.",
+        "This pokemon can learn Dragon-type moves despite not being a Dragon-type Pokémon.",
+        "This pokemon is known as the Lizard Pokémon.",
+        "This pokemon is the first Fire-type Pokémon in the National Pokédex."
+      ]
+    },
+    {
+      "number": "6",
+      "sprite": "/assets/sprites/6.png",
+      "name": "Charizard",
+      "type1": "Fire",
+      "type2": "Flying",
+      "baseStat": "534",
+      "funFacts": [
+        "This pokemon is known for its fierce loyalty and fiery breath.",
+        "This pokemon can Mega Evolve into two forms.",
+        "Despite its dragon-like appearance, This pokemon is not a Dragon-type Pokémon.",
+        "In the Pokémon anime, Ash has one of this pokemon.",
+        "This pokemon can learn the move 'Fly' in most Pokémon games."
+      ]
+    },
+    {
+      "number": "7",
+      "sprite": "/assets/sprites/7.png",
+      "name": "Squirtle",
+      "type1": "Water",
+      "type2": "",
+      "baseStat": "312",
+      "funFacts": [
+        "This pokemon is known as the Tiny Turtle Pokémon.",
+        "This pokemon's shell is not just for protection; its rounded shape helps it swim quickly.",
+        "In the anime, This pokemon was the leader of a Squad before joining Ash.",
+        "This pokemon evolves starting at level 16.",
+        "This pokemon can learn powerful Water-type moves like Hydro Pump."
+      ]
+    },
+    {
+      "number": "11",
+      "sprite": "/assets/sprites/11.png",
+      "name": "Metapod",
+      "type1": "Bug",
+      "type2": "",
+      "baseStat": "205",
+      "funFacts": [
+        "This pokemon is known as the Cocoon Pokémon.",
+        "This pokemon evolves at level 10.",
+        "This pokemon's shell is extremely hard and offers strong defense against predators.",
+        "This pokemon is almost immobile due to its upcoming transformation.",
+        "In the anime, This pokemon is often depicted as using Harden to defend itself."
+      ]
+    },
+    {
+      "number": "12",
+      "sprite": "/assets/sprites/12.png",
+      "name": "Butterfree",
+      "type1": "Bug",
+      "type2": "Flying",
+      "baseStat": "385",
+      "funFacts": [
+        "This pokemon is known for its beautiful, colorful wings.",
+        "This pokemon can learn powerful status moves like Sleep Powder and Stun Spore.",
+        "In the anime, This pokemon was one of Ash's first captures.",
+        "This pokemon has compound eyes that allow it to see in all directions.",
+        "This pokemon loves to collect honey from flowers."
+      ]
+    },
+    {
+      "number": "13",
+      "sprite": "/assets/sprites/13.png",
+      "name": "Weedle",
+      "type1": "Bug",
+      "type2": "Poison",
+      "baseStat": "195",
+      "funFacts": [
+        "This pokemon is known as the Hairy Bug Pokémon.",
+        "This pokemon's stinger is venomous and can be used for self-defense.",
+        "This pokemon evolves at level 7.",
+        "This pokemon's sense of smell is highly developed, helping it find leaves to eat.",
+        "This pokemon is one of the few Pokémon that can be found early in the wild in most Pokémon games."
+      ]
+    },
+    {
+      "number": "14",
+      "sprite": "/assets/sprites/14.png",
+      "name": "Kakuna",
+      "type1": "Bug",
+      "type2": "Poison",
+      "baseStat": "205",
+      "funFacts": [
+        "This pokemon is known as the Cocoon Pokémon.",
+        "This pokemon evolves at level 7 and then again at level 10.",
+        "This pokemon remains almost completely still as it prepares to evolve.",
+        "This pokemon's body is protected by a hard shell, making it difficult to damage.",
+        "In the anime, This pokemon often hangs from trees, blending in with its surroundings."
+      ]
+    },
+    {
+      "number": "15",
+      "sprite": "/assets/sprites/15.png",
+      "name": "Beedrill",
+      "type1": "Bug",
+      "type2": "Poison",
+      "baseStat": "385",
+      "funFacts": [
+        "This pokemon is known for its aggressive nature and powerful stingers.",
+        "This pokemon can Mega Evolve.",
+        "This pokemon attacks in swarms to overwhelm its opponents.",
+        "This pokemon's stingers can inject potent venom.",
+        "In the anime, This pokemon is often depicted as a threat to those who disturb its nest."
+      ]
+    },
+    {
+      "number": "16",
+      "sprite": "/assets/sprites/16.png",
+      "name": "Pidgey",
+      "type1": "Normal",
+      "type2": "Flying",
+      "baseStat": "251",
+      "funFacts": [
+        "This pokemon is known as the Tiny Bird Pokémon.",
+        "This pokemon has a gentle nature and prefers to avoid conflict.",
+        "This pokemon evolves at level 18.",
+        "This pokemon can use its keen sense of direction to return home from long distances.",
+        "In the anime, This pokemon is often seen as one of the first wild Pokémon encountered by trainers."
+      ]
+    },
+    {
+      "number": "18",
+      "sprite": "/assets/sprites/18.png",
+      "name": "Pidgeot",
+      "type1": "Normal",
+      "type2": "Flying",
+      "baseStat": "469",
+      "funFacts": [
+        "This pokemon is known for its impressive speed and majestic appearance.",
+        "This pokemon can Mega Evolve.",
+        "This pokemon's powerful wings can create gusts of wind capable of knocking down trees.",
+        "This pokemon's eyesight is so sharp that it can spot prey from great distances.",
+        "In the anime, Ash's has this pokemon."
+      ]
+    },
+    {
+      "number": "19",
+      "sprite": "/assets/sprites/29.png",
+      "name": "Rattata",
+      "type1": "Normal",
+      "type2": "",
+      "baseStat": "253",
+      "funFacts": [
+        "This pokemon is known as the Mouse Pokémon.",
+        "This pokemon's teeth grow continuously and must be worn down by gnawing.",
+        "This pokemon evolves at level 20.",
+        "This pokemon is extremely adaptable and can live in a variety of environments.",
+        "In the anime, This pokemon often appears as a common pest in cities and towns."
+      ]
+    },
+    {
+      "number": "22",
+      "sprite": "/assets/sprites/22.png",
+      "name": "Fearow",
+      "type1": "Normal",
+      "type2": "Flying",
+      "baseStat": "442",
+      "funFacts": [
+        "This pokemon is known for its long neck and powerful beak.",
+        "This pokemon can fly for an entire day without needing to rest.",
+        "This pokemon evolves from its preevolution at level 20.",
+        "This pokemon's beak is strong enough to pierce through tough materials.",
+        "In the anime, This pokemon is often depicted as a fierce and territorial Pokémon."
+      ]
+    },
+    {
+      "number": "23",
+      "sprite": "/assets/sprites/23.png",
+      "name": "Ekans",
+      "type1": "Poison",
+      "type2": "",
+      "baseStat": "288",
+      "funFacts": [
+        "This pokemon is known as the Snake Pokémon.",
+        "This pokemon can slither silently through grass to ambush its prey.",
+        "This pokemon evolves at level 22.",
+        "This pokemon can use its tongue to detect the scent of prey.",
+        "In the anime, This pokemon is often seen alongside its trainer, Jessie of Team Rocket."
+      ]
+    },
+    {
+      "number": "25",
+      "sprite": "/assets/sprites/25.png",
+      "name": "Pikachu",
+      "type1": "Electric",
+      "type2": "",
+      "baseStat": "300",
+      "funFacts": [
+        "This pokemon is the mascot of the Pokémon franchise.",
+        "This pokemon evolves when exposed to a Thunder Stone.",
+        "This pokemon stores electricity in its cheeks and releases it in powerful electric attacks.",
+        "In the anime, This pokemon is Ash's first Pokémon.",
+        "This pokemon can learn a wide variety of moves, including Iron Tail and Volt Tackle."
+      ]
+    },
+    {
+      "number": "27",
+      "sprite": "/assets/sprites/27.png",
+      "name": "Sandshrew",
+      "type1": "Ground",
+      "type2": "",
+      "baseStat": "300",
+      "funFacts": [
+        "This pokemon is known as the Mouse Pokémon.",
+        "This pokemon can curl up into a ball to protect itself from attacks.",
+        "This pokemon evolves at level 22.",
+        "This pokemon prefers to live in dry, sandy areas.",
+        "In the Alola region, This pokemon has an Ice/Steel-type regional form."
+      ]
+    },
+    {
+      "number": "28",
+      "sprite": "/assets/sprites/28.png",
+      "name": "Sandslash",
+      "type1": "Ground",
+      "type2": "",
+      "baseStat": "450",
+      "funFacts": [
+        "This pokemon is known for its sharp claws and spiny back.",
+        "This pokemon can roll into a ball to attack or defend.",
+        "This pokemon's claws are strong enough to dig through rock.",
+        "In the Alola region, This pokemon has an Ice/Steel-type regional form.",
+        "This pokemon is often depicted as a quick and agile Pokémon in battle."
+      ]
+    },
+    {
+      "number": "34",
+      "sprite": "/assets/sprites/.png",
+      "name": "Nidoking",
+      "type1": "Poison",
+      "type2": "Ground",
+      "baseStat": "495",
+      "funFacts": [
+        "This pokemon is known for its incredible strength and power.",
+        "This pokemon evolves from its preevolution when exposed to a Moon Stone.",
+        "This pokemon's horn can pierce through steel.",
+        "This pokemon can learn a variety of powerful moves, including Earthquake and Megahorn.",
+        "In the anime, This pokemon often appears as a formidable opponent."
+      ]
+    },
+    {
+      "number": "35",
+      "sprite": "/assets/sprites/35.png",
+      "name": "Clefairy",
+      "type1": "Normal",
+      "type2": "",
+      "baseStat": "323",
+      "funFacts": [
+        "This pokemon is known for its connection to the moon.",
+        "This pokemon evolves when exposed to a Moon Stone.",
+        "This pokemon gathers in places bathed in moonlight to dance and play.",
+        "This pokemon's wings allow it to float gently down to the ground.",
+        "In the anime, This pokemon was once considered as the mascot of the Pokémon franchise."
+      ]
+    },
+    {
+      "number": "37",
+      "sprite": "/assets/sprites/.png",
+      "name": "Vulpix",
+      "type1": "Fire",
+      "type2": "",
+      "baseStat": "299",
+      "funFacts": [
+        "This pokemon is known for its beautiful, six-tailed appearance.",
+        "This pokemon evolves when exposed to a Fire Stone.",
+        "This pokemon can control fire with its breath.",
+        "In the Alola region, This pokemon has an Ice-type regional form.",
+        "This pokemon is often depicted as a loyal and affectionate Pokémon."
+      ]
+    },
+    {
+      "number": "38",
+      "sprite": "/assets/sprites/.png",
+      "name": "Ninetales",
+      "type1": "Fire",
+      "type2": "",
+      "baseStat": "505",
+      "funFacts": [
+        "This pokemon is known for its long lifespan, living up to 1,000 years.",
+        "This pokemon can cast powerful curses on those who mistreat it.",
+        "Each of This pokemon' tails contains a mystical power.",
+        "In the Alola region, This pokemon has an Ice/Fairy-type regional form.",
+        "This pokemon is often depicted as a wise and mystical Pokémon in folklore."
+      ]
+    },
+    {
+      "number": "39",
+      "sprite": "/assets/sprites/.png",
+      "name": "Jigglypuff",
+      "type1": "Normal",
+      "type2": "",
+      "baseStat": "270",
+      "funFacts": [
+        "This pokemon is known for its ability to put others to sleep by singing.",
+        "This pokemon evolves into Wigglytuff when exposed to a Moon Stone.",
+        "This pokemon's eyes can adjust to see in the dark.",
+        "In the anime, This pokemon is known for drawing on the faces of those it puts to sleep.",
+        "This pokemon is a popular character in the Super Smash Bros. series."
+      ]
+    },
+    {
+      "number": "41",
+      "sprite": "/assets/sprites/.png",
+      "name": "Zubat",
+      "type1": "Poison",
+      "type2": "Flying",
+      "baseStat": "245",
+      "funFacts": [
+        "This pokemon is known for its echolocation abilities.",
+        "This pokemon evolves at level 22.",
+        "This pokemon can fly silently through the night.",
+        "In caves, This pokemon can often be found in large colonies.",
+        "This pokemon lacks eyes and relies entirely on echolocation to navigate."
+      ]
+    },
+    {
+      "number": "42",
+      "sprite": "/assets/sprites/.png",
+      "name": "Golbat",
+      "type1": "Poison",
+      "type2": "Flying",
+      "baseStat": "455",
+      "funFacts": [
+        "This pokemon is known for its large mouth and sharp fangs.",
+        "This pokemon evolves when leveled up with high friendship.",
+        "This pokemon can drain the blood of its prey using its fangs.",
+        "This pokemon is often found in dark caves, hunting for prey.",
+        "In the anime, This pokemon is frequently used by Team Rocket members."
+      ]
+    },
+    {
+      "number": "43",
+      "sprite": "/assets/sprites/.png",
+      "name": "Oddish",
+      "type1": "Grass",
+      "type2": "Poison",
+      "baseStat": "320",
+      "funFacts": [
+        "This pokemon is known as the Weed Pokémon.",
+        "This pokemon evolves into Gloom at level 21.",
+        "This pokemon buries itself in the ground during the day to avoid sunlight.",
+        "This pokemon releases a toxic fluid from its leaves if threatened.",
+        "In the anime, This pokemon often appears in forests and grassy areas."
+      ]
+    },
+    {
+      "number": "44",
+      "sprite": "/assets/sprites/.png",
+      "name": "Gloom",
+      "type1": "Grass",
+      "type2": "Poison",
+      "baseStat": "395",
+      "funFacts": [
+        "This pokemon is known for the foul-smelling fluid it secretes.",
+        "This pokemon evolves when exposed to a Leaf Stone or Sunn Stone.",
+        "This pokemon's fluid is used to attract prey and deter predators.",
+        "This pokemon's drooling mouth releases a noxious gas.",
+        "In the anime, This pokemon is often depicted as a sleepy and lethargic Pokémon."
+      ]
+    },
+    {
+      "number": "45",
+      "sprite": "/assets/sprites/.png",
+      "name": "Vileplume",
+      "type1": "Grass",
+      "type2": "Poison",
+      "baseStat": "480",
+      "funFacts": [
+        "This pokemon is known for its large, colorful flower.",
+        "This pokemon's petals release a toxic pollen that can cause paralysis.",
+        "This pokemon evolved via Leaf Stone.",
+        "This pokemon's flower is said to be the largest in the Pokémon world.",
+        "In the anime, This pokemon often appears in lush, tropical areas."
+      ]
+    },
+    {
+      "number": "334",
+      "sprite": "/assets/sprites/.png",
+      "name": "Altaria",
+      "type1": "Dragon",
+      "type2": "Flying",
+      "baseStat": "490",
+      "funFacts": [
+          "This pokemon evolves from its preevolution starting at level 35.",
+          "This pokemon can Mega Evolve.",
+          "This pokemon's singing can calm feelings of anger and hostility, making it popular in concert settings.",
+          "This pokemon is known for its fluffy, cloud-like wings, which allow it to soar gracefully in the sky.",
+          "In Mega form, This pokemon changes its type to Dragon/Fairy, gaining a new appearance and abilities."
+      ]
+  },
+  {
+      "number": "335",
+      "sprite": "/assets/sprites/.png",
+      "name": "Zangoose",
+      "type1": "Normal",
+      "type2": "",
+      "baseStat": "458",
+      "funFacts": [
+          "This pokemon has a long-standing rivalry with Seviper, its arch-nemesis.",
+          "Its sharp claws are its primary weapon in battles, which it uses with great skill.",
+          "This pokemon has the ability Immunity, which prevents it from being poisoned.",
+          "Despite its fierce appearance, This pokemon is known to form strong bonds with its Trainer.",
+          "This pokemon's agility and speed make it a formidable opponent in battle."
+      ]
+  },
+  {
+      "number": "336",
+      "sprite": "/assets/sprites/.png",
+      "name": "Seviper",
+      "type1": "Poison",
+      "type2": "",
+      "baseStat": "458",
+      "funFacts": [
+          "This pokemon is known for its long-standing feud with Zangoose.",
+          "Its tail is shaped like a sword and is used to inflict deep wounds on opponents.",
+          "This pokemon has powerful venom that can incapacitate its foes quickly.",
+          "It uses its long body to coil around and constrict its enemies.",
+          "This pokemon is often seen sharpening its tail to ensure it remains deadly in battle."
+      ]
+  },
+  {
+      "number": "337",
+      "sprite": "/assets/sprites/.png",
+      "name": "Lunatone",
+      "type1": "Rock",
+      "type2": "Psychic",
+      "baseStat": "440",
+      "funFacts": [
+          "This pokemon is believed to have originated from space, giving it a mysterious aura.",
+          "It is often found in areas where meteorites are found.",
+          "This pokemon's eyes glow red when it becomes active during the full moon.",
+          "It has the ability Levitate, which makes it immune to Ground-type moves.",
+          "This pokemon's connection to the moon enhances its psychic abilities."
+      ]
+  },
+  {
+      "number": "338",
+      "sprite": "/assets/sprites/.png",
+      "name": "Solrock",
+      "type1": "Rock",
+      "type2": "Psychic",
+      "baseStat": "440",
+      "funFacts": [
+          "This pokemon absorbs solar energy during the day, which it uses to fuel its psychic powers.",
+          "It is said to have been discovered in a desert by an expedition team.",
+          "This pokemon's body glows with intense light when it is at its most powerful.",
+          "It has the ability Levitate, rendering it immune to Ground-type moves.",
+          "This pokemon is often seen as a counterpart to Lunatone, reflecting the sun-moon dichotomy."
+      ]
+  },
+  {
+      "number": "339",
+      "sprite": "/assets/sprites/.png",
+      "name": "Barboach",
+      "type1": "Water",
+      "type2": "Ground",
+      "baseStat": "288",
+      "funFacts": [
+          "This pokemon is covered in a slimy, slippery mucus that protects it from germs.",
+          "It can use its whiskers to sense its surroundings and detect movement in muddy water.",
+          "This pokemon is capable of living in both fresh and saltwater environments.",
+          "Its ability to burrow into mud helps it avoid predators and extreme weather conditions.",
+          "This pokemon's whiskers are so sensitive that they can detect the faintest vibrations in the water."
+      ]
+  },
+  {
+      "number": "340",
+      "sprite": "/assets/sprites/.png",
+      "name": "Whiscash",
+      "type1": "Water",
+      "type2": "Ground",
+      "baseStat": "468",
+      "funFacts": [
+          "This pokemon can predict earthquakes and other natural disasters using its sensory whiskers.",
+          "It is known as the 'Whiskers Pokémon' due to its prominent whiskers.",
+          "This pokemon creates its nests at the bottom of muddy lakes and swamps.",
+          "It is extremely territorial and will use powerful tremors to drive away intruders.",
+          "This pokemon's body is capable of generating strong electric shocks to stun its prey."
+      ]
+  },
+  {
+      "number": "341",
+      "sprite": "/assets/sprites/341.png",
+      "name": "Corphish",
+      "type1": "Water",
+      "type2": "",
+      "baseStat": "308",
+      "funFacts": [
+          "This pokemon is known for its tenacity and will fight even against larger opponents.",
+          "It can regenerate lost claws, making it a resilient fighter.",
+          "This pokemon is often found in polluted waters, as it can adapt to harsh environments.",
+          "It uses its powerful pincers to crush and crack open hard shells.",
+          "This pokemon has a curious nature and will explore its surroundings extensively."
+      ]
+  },
+  {
+      "number": "342",
+      "sprite": "/assets/sprites/.png",
+      "name": "Crawdaunt",
+      "type1": "Water",
+      "type2": "Dark",
+      "baseStat": "468",
+      "funFacts": [
+          "This pokemon is extremely aggressive and territorial, often battling other Pokémon.",
+          "Its large pincers are strong enough to crush rocks.",
+          "This pokemon molts its shell regularly, growing larger each time.",
+          "It has the ability to live in both fresh and saltwater environments.",
+          "This pokemon is known for its distinctive star-shaped mark on its head."
+      ]
+  },
+  {
+      "number": "343",
+      "sprite": "/assets/sprites/.png",
+      "name": "Baltoy",
+      "type1": "Ground",
+      "type2": "Psychic",
+      "baseStat": "300",
+      "funFacts": [
+          "This pokemon is believed to be an ancient Pokémon that was brought to life by mysterious forces.",
+          "It moves by spinning on its single foot, using centrifugal force to stay upright.",
+          "This pokemon is often found in ancient ruins, where it remains still for long periods.",
+          "It has the ability Levitate, making it immune to Ground-type moves.",
+          "This pokemon communicates with others of its kind through telepathy."
+      ]
+  },
+  {
+      "number": "344",
+      "sprite": "/assets/sprites/.png",
+      "name": "Claydol",
+      "type1": "Ground",
+      "type2": "Psychic",
+      "baseStat": "500",
+      "funFacts": [
+          "This pokemon evolves from its preevolution when exposed to the mysterious energies of ancient ruins.",
+          "It has multiple eyes that allow it to see in all directions simultaneously.",
+          "This pokemon can shoot powerful beams from its hands and eyes in battle.",
+          "It is said to have been discovered in the ruins of an ancient civilization.",
+          "This pokemon's ability to Levitate makes it a versatile and mobile battler."
+      ]
+  },
+  {
+      "number": "345",
+      "sprite": "/assets/sprites/.png",
+      "name": "Lileep",
+      "type1": "Rock",
+      "type2": "Grass",
+      "baseStat": "355",
+      "funFacts": [
+          "This pokemon is a fossil Pokémon that has been brought back to life through scientific means.",
+          "It attaches itself to rocks and uses its tentacles to catch prey.",
+          "This pokemon's appearance is based on ancient sea lilies that lived millions of years ago.",
+          "It remains still to avoid detection by predators, blending in with the surrounding rocks.",
+          "This pokemon is known to live in shallow seas, where it can photosynthesize using its leaf-like appendages."
+      ]
+  },
+  {
+      "number": "346",
+      "sprite": "/assets/sprites/.png",
+      "name": "Cradily",
+      "type1": "Rock",
+      "type2": "Grass",
+      "baseStat": "495",
+      "funFacts": [
+          "This pokemon evolves from its preevolution starting at level 40.",
+          "It uses its long, flexible tentacles to ensnare prey and draw them into its mouth.",
+          "This pokemon's body can regenerate quickly, making it a durable Pokémon in battle.",
+          "It is capable of living in both marine and terrestrial environments.",
+          "This pokemon's fossil was discovered in ancient seabeds, indicating its prehistoric origins."
+      ]
+  },
+  {
+      "number": "347",
+      "sprite": "/assets/sprites/.png",
+      "name": "Anorith",
+      "type1": "Rock",
+      "type2": "Bug",
+      "baseStat": "355",
+      "funFacts": [
+          "This pokemon is a fossil Pokémon revived from a Claw Fossil.",
+          "It is believed to be one of the first Pokémon to walk on land.",
+          "This pokemon uses its sharp claws to catch and hold onto prey.",
+          "It swims by undulating the eight wings at the sides of its body.",
+          "This pokemon's design is based on ancient marine arthropods known as anomalocaridids."
+      ]
+  },
+  {
+      "number": "348",
+      "sprite": "/assets/sprites/.png",
+      "name": "Armaldo",
+      "type1": "Rock",
+      "type2": "Bug",
+      "baseStat": "495",
+      "funFacts": [
+          "This pokemon evolves from its preevolution starting at level 40.",
+          "It is known for its powerful, armor-plated body and sharp claws.",
+          "This pokemon can swim despite being primarily a land-dweller, using its wings to propel itself.",
+          "Its claws can cut through steel, making it a formidable opponent in battle.",
+          "This pokemon's fossilized remains were discovered in cliffs and seabeds."
+      ]
+  },
+  {
+      "number": "349",
+      "sprite": "/assets/sprites/.png",
+      "name": "Feebas",
+      "type1": "Water",
+      "type2": "",
+      "baseStat": "200",
+      "funFacts": [
+          "This pokemon is often compared to Magikarp for its weak appearance.",
+          "It can live in any kind of water, no matter how dirty or polluted.",
+          "This pokemon evolves when leveled up with high Beauty or when traded holding a Prism Scale.",
+          "It is often overlooked by trainers due to its shabby looks.",
+          "This pokemon is known for its resilience, thriving in environments other Pokémon avoid."
+      ]
+  },
+  {
+      "number": "350",
+      "sprite": "/assets/sprites/.png",
+      "name": "Milotic",
+      "type1": "Water",
+      "type2": "",
+      "baseStat": "540",
+      "funFacts": [
+          "This pokemon is known for its stunning beauty.",
+          "It is said to calm feelings of anger and hostility, creating a serene atmosphere.",
+          "This pokemon is often sought after by trainers for contests due to its elegant appearance.",
+          "Its presence is said to have a soothing effect on people and Pokémon alike.",
+          "This pokemon can purify dirty water, making it clear and healthy again."
+      ]
+  },
+  {
+    "number": "452",
+    "name": "Drapion",
+    "type1": "Poison",
+    "type2": "Dark",
+    "baseStat": "500",
+    "funFacts": [
+        "This pokemon is known as the 'Ogre Scorp' Pokémon.",
+        "Its claws are powerful enough to crush cars.",
+        "This pokemon has a 360-degree field of vision due to its eyes on its head.",
+        "It can survive for up to a month without food.",
+        "This pokemon is immune to Psychic-type moves thanks to its Dark typing."
+    ]
+},
+{
+    "number": "453",
+    "name": "Croagunk",
+    "type1": "Poison",
+    "type2": "Fighting",
+    "baseStat": "300",
+    "funFacts": [
+        "This pokemon stores poison in its cheeks and releases it through its fingers.",
+        "Its poison is used in traditional medicine in some regions.",
+        "This pokemon's cheeks inflate when it is about to attack.",
+        "It is known for its playful and mischievous nature.",
+        "This pokemon is often seen mimicking humans in an attempt to communicate."
+    ]
+},
+{
+    "number": "454",
+    "name": "Toxicroak",
+    "type1": "Poison",
+    "type2": "Fighting",
+    "baseStat": "490",
+    "funFacts": [
+        "This pokemon's knuckle claws secrete a potent toxin.",
+        "It croaks loudly to signal its territory.",
+        "This pokemon is highly skilled in hand-to-hand combat.",
+        "Its poison can weaken the muscles of its opponents.",
+        "This pokemon is known for its sinister grin."
+    ]
+},
+{
+    "number": "455",
+    "name": "Carnivine",
+    "type1": "Grass",
+    "type2": "",
+    "baseStat": "454",
+    "funFacts": [
+        "This pokemon lures its prey with a sweet-smelling saliva.",
+        "It can clamp down on prey with its powerful jaws.",
+        "This pokemon's vines can extend and contract like tentacles.",
+        "It typically waits motionless for hours, waiting for prey to come close.",
+        "This pokemon's design is based on carnivorous plants, particularly the Venus flytrap."
+    ]
+},
+{
+    "number": "456",
+    "name": "Finneon",
+    "type1": "Water",
+    "type2": "",
+    "baseStat": "330",
+    "funFacts": [
+        "This pokemon is known as the 'Wing Fish' Pokémon.",
+        "Its tail fin shines in a rainbow of colors.",
+        "This pokemon swims by fluttering its wing-like fins elegantly.",
+        "It can light up its tail fin to communicate with others of its kind.",
+        "This pokemon is often seen swimming near the surface of the water."
+    ]
+},
+{
+    "number": "457",
+    "name": "Lumineon",
+    "type1": "Water",
+    "type2": "",
+    "baseStat": "460",
+    "funFacts": [
+        "This pokemon evolves from its preevolution starting at level 31.",
+        "It uses its light-emitting fins to attract prey in the dark ocean depths.",
+        "This pokemon is known for its graceful and agile swimming.",
+        "It can use the light from its fins to communicate and navigate.",
+        "This pokemon often competes with Lanturn for food."
+    ]
+},
+{
+    "number": "458",
+    "name": "Mantyke",
+    "type1": "Water",
+    "type2": "Flying",
+    "baseStat": "345",
+    "funFacts": [
+        "This pokemon evolves when leveled up with a Remoraid in the party.",
+        "Its body is covered in a layer of mucus that provides protection.",
+        "This pokemon can glide over the water's surface, using its fins like wings.",
+        "This pokemon often swims in schools.",
+        "This pokemon's friendly nature makes it popular among trainers."
+    ]
+},
+{
+    "number": "459",
+    "name": "Snover",
+    "type1": "Grass",
+    "type2": "Ice",
+    "baseStat": "334",
+    "funFacts": [
+        "This pokemon's body is covered in a layer of snow, which provides camouflage.",
+        "It is known as the 'Frost Tree' Pokémon.",
+        "This pokemon can survive in harsh, snowy environments.",
+        "It releases a sweet sap from its body, which attracts wildlife.",
+        "This pokemon's appearance changes with the seasons, turning greener in summer."
+    ]
+},
+{
+    "number": "460",
+    "name": "Abomasnow",
+    "type1": "Grass",
+    "type2": "Ice",
+    "baseStat": "494",
+    "funFacts": [
+        "This pokemon evolves from its preevolution starting at level 40.",
+        "It can create blizzards by whipping up snowstorms with its arms.",
+        "This pokemon is known as the 'Frost Tree' Pokémon.",
+        "Its Mega Evolution gains increased bulk and power.",
+        "This pokemon's presence is said to be a sign of impending snowstorms."
+    ]
+},
+{
+    "number": "461",
+    "name": "Weavile",
+    "type1": "Dark",
+    "type2": "Ice",
+    "baseStat": "510",
+    "funFacts": [
+        "This pokemon evolves from its preevoltion when leveled up holding a Razor Claw at night.",
+        "It is known for its speed and agility in battle.",
+        "This pokemon forms packs that hunt prey together.",
+        "Its claws are sharp enough to cut through ice and stone.",
+        "This pokemon uses its intelligence to outsmart opponents."
+    ]
+},
+{
+    "number": "462",
+    "name": "Magnezone",
+    "type1": "Electric",
+    "type2": "Steel",
+    "baseStat": "535",
+    "funFacts": [
+        "This pokemon evolves from Magneton when leveled up in a special magnetic field.",
+        "It can generate powerful magnetic forces to control metal objects.",
+        "This pokemon's three units can attack independently or together.",
+        "It emits radio waves to communicate with other This pokemon.",
+        "This pokemon is known for its UFO-like appearance."
+    ]
+},
+{
+    "number": "463",
+    "name": "Lickilicky",
+    "type1": "Normal",
+    "type2": "",
+    "baseStat": "515",
+    "funFacts": [
+        "This pokemon evolves from its preevolution when it learns the move Rollout.",
+        "Its tongue can extend over 82 feet and is dexterous enough to manipulate objects.",
+        "This pokemon's saliva has a numbing effect.",
+        "It stores excess food in its throat pouch.",
+        "This pokemon is known for its gluttonous appetite."
+    ]
+},
+{
+    "number": "464",
+    "name": "Rhyperior",
+    "type1": "Ground",
+    "type2": "Rock",
+    "baseStat": "535",
+    "funFacts": [
+        "This pokemon evolves from its preevoltuion when traded holding a Protector.",
+        "It can launch boulders and Geodude from its hands like missiles.",
+        "This pokemon's hide is extremely tough, providing excellent defense.",
+        "It uses its powerful horn to drill through rock and soil.",
+        "This pokemon's body is partially covered in a rocky armor."
+    ]
+},
+{
+    "number": "465",
+    "name": "Tangrowth",
+    "type1": "Grass",
+    "type2": "",
+    "baseStat": "535",
+    "funFacts": [
+        "This pokemon evolves from its preevoltuion when leveled up knowing Ancient Power.",
+        "Its arms are made of vines that can extend and retract.",
+        "This pokemon can ensnare prey with its vine-like arms.",
+        "It is known for its regenerative abilities, quickly regrowing lost vines.",
+        "This pokemon is often mistaken for a moving shrub in the wild."
+    ]
+},
+{
+    "number": "466",
+    "name": "Electivire",
+    "type1": "Electric",
+    "type2": "",
+    "baseStat": "540",
+    "funFacts": [
+        "This pokemon evolves from its preevoltuion when traded holding an Electirizer.",
+        "It can generate electrical voltages up to 20,000 volts.",
+        "This pokemon's tails act as powerful electrical generators.",
+        "It can plug its tails into electric sockets to recharge.",
+        "This pokemon is known for its competitive spirit and raw power."
+    ]
+},
+{
+    "number": "467",
+    "name": "Magmortar",
+    "type1": "Fire",
+    "type2": "",
+    "baseStat": "540",
+    "funFacts": [
+        "This pokemon evolves from its preevoltuion when traded holding a Magmarizer.",
+        "It can shoot fireballs from its arm cannons.",
+        "This pokemon's body temperature can exceed 2,200 degrees Fahrenheit.",
+        "It lives in volcanic craters where it can absorb lava to power its attacks.",
+        "This pokemon's flames are hot enough to melt boulders."
+    ]
+},
+{
+    "number": "468",
+    "name": "Togekiss",
+    "type1": "Normal",
+    "type2": "Flying",
+    "baseStat": "545",
+    "funFacts": [
+        "This pokemon evolves from its preevoltuion when exposed to a Shiny Stone.",
+        "It is known for bringing blessings and joy to people.",
+        "This pokemon avoids conflict and dislikes strife.",
+        "Its presence is said to bring good fortune to trainers.",
+        "This pokemon can share its serene aura to calm those around it."
+    ]
+},
+{
+    "number": "469",
+    "name": "Yanmega",
+    "type1": "Bug",
+    "type2": "Flying",
+    "baseStat": "515",
+    "funFacts": [
+        "This pokemon evolves from its preevoltuion when leveled up knowing Ancient Power.",
+        "It can produce shockwaves with its wingbeats to stun prey.",
+        "This pokemon's eyes provide a wide field of vision.",
+        "It is known for its incredible speed and maneuverability in flight.",
+        "This pokemon's jaw strength allows it to crush insect exoskeletons easily."
+    ]
+},
+{
+    "number": "470",
+    "name": "Leafeon",
+    "type1": "Grass",
+    "type2": "",
+    "baseStat": "525",
+    "funFacts": [
+        "This pokemon evolves from its preevoltuion when leveled up near a Moss Rock.",
+        "It has the ability to photosynthesize, providing it with energy from sunlight.",
+        "This pokemon's fur emits a fresh, clean scent reminiscent of grass.",
+        "It can purify air around it, making forests healthy and lush.",
+        "This pokemon's leaf-like tail is both sharp and flexible, used for slicing through obstacles."
+    ]
+}
+  ]
+}
