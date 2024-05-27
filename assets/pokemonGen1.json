@@ -1,0 +1,1363 @@
+{
+  "pokemon": [
+    {
+      "number": "1",
+      "sprite": "/assets/sprites/1.png",
+      "name": "Bulbasaur",
+      "type1": "Grass",
+      "type2": "Poison"
+,
+"baseStat": "318"
+    },
+    {
+      "number": "2",
+      "sprite": "/assets/sprites/2.png",
+      "name": "Ivysaur",
+      "type1": "Grass",
+      "type2": "Poison"
+,
+"baseStat": "405"
+    },
+    {
+      "number": "3",
+      "sprite": "/assets/sprites/3.png",
+      "name": "Venusaur",
+      "type1": "Grass",
+      "type2": "Poison"
+,
+"baseStat": "525"
+    },
+    {
+      "number": "4",
+      "sprite": "/assets/sprites/4.png",
+      "name": "Charmander",
+      "type1": "Fire",
+      "type2": ""
+,
+"baseStat": "309"
+    },
+    {
+      "number": "5",
+      "sprite": "/assets/sprites/5.png",
+      "name": "Charmeleon",
+      "type1": "Fire",
+      "type2": ""
+,
+"baseStat": "405"
+    },
+    {
+      "number": "6",
+      "sprite": "/assets/sprites/6.png",
+      "name": "Charizard",
+      "type1": "Fire",
+      "type2": "Flying"
+,
+"baseStat": "534"
+    },
+    {
+      "number": "7",
+      "sprite": "/assets/sprites/7.png",
+      "name": "Squirtle",
+      "type1": "Water",
+      "type2": ""
+,
+"baseStat": "312"
+    },
+    {
+      "number": "8",
+      "sprite": "/assets/sprites/8.png",
+      "name": "Wartortle",
+      "type1": "Water",
+      "type2": ""
+,
+"baseStat": "405"
+    },
+    {
+      "number": "9",
+      "sprite": "/assets/sprites/9.png",
+      "name": "Blastoise",
+      "type1": "Water",
+      "type2": ""
+,
+"baseStat": "530"
+    },
+    {
+      "number": "10",
+      "sprite": "/assets/sprites/10.png",
+      "name": "Caterpie",
+      "type1": "Bug",
+      "type2": ""
+,
+"baseStat": "195"
+    },
+    {
+      "number": "11",
+      "sprite": "/assets/sprites/11.png",
+      "name": "Metapod",
+      "type1": "Bug",
+      "type2": ""
+,
+"baseStat": "205"
+    },
+    {
+      "number": "12",
+      "sprite": "/assets/sprites/12.png",
+      "name": "Butterfree",
+      "type1": "Bug",
+      "type2": "Flying"
+,
+"baseStat": "385"
+    },
+    {
+      "number": "13",
+      "sprite": "/assets/sprites/13.png",
+      "name": "Weedle",
+      "type1": "Bug",
+      "type2": "Poison"
+,
+"baseStat": "195"
+    },
+    {
+      "number": "14",
+      "sprite": "/assets/sprites/14.png",
+      "name": "Kakuna",
+      "type1": "Bug",
+      "type2": "Poison"
+,
+"baseStat": "205"
+    },
+    {
+      "number": "15",
+      "sprite": "/assets/sprites/15.png",
+      "name": "Beedrill",
+      "type1": "Bug",
+      "type2": "Poison"
+,
+"baseStat": "385"
+    },
+    {
+      "number": "16",
+      "sprite": "/assets/sprites/16.png",
+      "name": "Pidgey",
+      "type1": "Normal",
+      "type2": "Flying"
+,
+"baseStat": "251"
+    },
+    {
+      "number": "17",
+      "sprite": "/assets/sprites/17.png",
+      "name": "Pidgeotto",
+      "type1": "Normal",
+      "type2": "Flying"
+,
+"baseStat": "349"
+    },
+    {
+      "number": "18",
+      "sprite": "/assets/sprites/18.png",
+      "name": "Pidgeot",
+      "type1": "Normal",
+      "type2": "Flying"
+,
+"baseStat": "469"
+    },
+    {
+      "number": "19",
+      "sprite": "/assets/sprites/29.png",
+      "name": "Rattata",
+      "type1": "Normal",
+      "type2": ""
+,
+"baseStat": "253"
+    },
+    {
+      "number": "20",
+      "sprite": "/assets/sprites/20.png",
+      "name": "Raticate",
+      "type1": "Normal",
+      "type2": ""
+,
+"baseStat": "413"
+    },
+    {
+      "number": "21",
+      "sprite": "/assets/sprites/21.png",
+      "name": "Spearow",
+      "type1": "Normal",
+      "type2": "Flying"
+,
+"baseStat": "262"
+    },
+    {
+      "number": "22",
+      "sprite": "/assets/sprites/22.png",
+      "name": "Fearow",
+      "type1": "Normal",
+      "type2": "Flying"
+,
+"baseStat": "442"
+    },
+    {
+      "number": "23",
+      "sprite": "/assets/sprites/23.png",
+      "name": "Ekans",
+      "type1": "Poison",
+      "type2": ""
+,
+"baseStat": "288"
+    },
+    {
+      "number": "24",
+      "sprite": "/assets/sprites/24.png",
+      "name": "Arbok",
+      "type1": "Poison",
+      "type2": ""
+,
+"baseStat": "438"
+    },
+    {
+      "number": "25",
+      "sprite": "/assets/sprites/25.png",
+      "name": "Pikachu",
+      "type1": "Electric",
+      "type2": ""
+,
+"baseStat": "300"
+    },
+    {
+      "number": "26",
+      "sprite": "/assets/sprites/26.png",
+      "name": "Raichu",
+      "type1": "Electric",
+      "type2": ""
+,
+"baseStat": "475"
+    },
+    {
+      "number": "27",
+      "sprite": "/assets/sprites/27.png",
+      "name": "Sandshrew",
+      "type1": "Ground",
+      "type2": ""
+,
+"baseStat": "300"
+    },
+    {
+      "number": "28",
+      "sprite": "/assets/sprites/28.png",
+      "name": "Sandslash",
+      "type1": "Ground",
+      "type2": ""
+,
+"baseStat": "450"
+    },
+    {
+      "number": "29",
+      "sprite": "/assets/sprites/29.png",
+      "name": "Nidoran♀",
+      "type1": "Poison",
+      "type2": ""
+,
+"baseStat": "275"
+    },
+    {
+      "number": "30",
+      "sprite": "/assets/sprites/30.png",
+      "name": "Nidorina",
+      "type1": "Poison",
+      "type2": ""
+,
+"baseStat": "365"
+    },
+    {
+      "number": "31",
+      "sprite": "/assets/sprites/.png",
+      "name": "Nidoqueen",
+      "type1": "Poison",
+      "type2": "Ground"
+,
+"baseStat": "495"
+    },
+    {
+      "number": "32",
+      "sprite": "/assets/sprites/.png",
+      "name": "Nidoran♂",
+      "type1": "Poison",
+      "type2": ""
+,
+"baseStat": "273"
+    },
+    {
+      "number": "33",
+      "sprite": "/assets/sprites/.png",
+      "name": "Nidorino",
+      "type1": "Poison",
+      "type2": ""
+,
+"baseStat": "365"
+    },
+    {
+      "number": "34",
+      "sprite": "/assets/sprites/.png",
+      "name": "Nidoking",
+      "type1": "Poison",
+      "type2": "Ground"
+,
+"baseStat": "495"
+    },
+    {
+      "number": "35",
+      "sprite": "/assets/sprites/35.png",
+      "name": "Clefairy",
+      "type1": "Normal",
+      "type2": ""
+,
+"baseStat": "323"
+    },
+    {
+      "number": "36",
+      "sprite": "/assets/sprites/.png",
+      "name": "Clefable",
+      "type1": "Normal",
+      "type2": ""
+,
+"baseStat": "473"
+    },
+    {
+      "number": "37",
+      "sprite": "/assets/sprites/.png",
+      "name": "Vulpix",
+      "type1": "Fire",
+      "type2": ""
+,
+"baseStat": "299"
+    },
+    {
+      "number": "38",
+      "sprite": "/assets/sprites/.png",
+      "name": "Ninetales",
+      "type1": "Fire",
+      "type2": ""
+,
+"baseStat": "505"
+    },
+    {
+      "number": "39",
+      "sprite": "/assets/sprites/.png",
+      "name": "Jigglypuff",
+      "type1": "Normal",
+      "type2": ""
+,
+"baseStat": "270"
+    },
+    {
+      "number": "40",
+      "sprite": "/assets/sprites/.png",
+      "name": "Wigglytuff",
+      "type1": "Normal",
+      "type2": ""
+,
+"baseStat": "425"
+    },
+    {
+      "number": "41",
+      "sprite": "/assets/sprites/.png",
+      "name": "Zubat",
+      "type1": "Poison",
+      "type2": "Flying"
+,
+"baseStat": "245"
+    },
+    {
+      "number": "42",
+      "sprite": "/assets/sprites/.png",
+      "name": "Golbat",
+      "type1": "Poison",
+      "type2": "Flying"
+,
+"baseStat": "455"
+    },
+    {
+      "number": "43",
+      "sprite": "/assets/sprites/.png",
+      "name": "Oddish",
+      "type1": "Grass",
+      "type2": "Poison"
+,
+"baseStat": "320"
+    },
+    {
+      "number": "44",
+      "sprite": "/assets/sprites/.png",
+      "name": "Gloom",
+      "type1": "Grass",
+      "type2": "Poison"
+,
+"baseStat": "395"
+    },
+    {
+      "number": "45",
+      "sprite": "/assets/sprites/.png",
+      "name": "Vileplume",
+      "type1": "Grass",
+      "type2": "Poison"
+,
+"baseStat": "480"
+    },
+    {
+      "number": "46",
+      "sprite": "/assets/sprites/.png",
+      "name": "Paras",
+      "type1": "Bug",
+      "type2": "Grass"
+,
+"baseStat": "285"
+    },
+    {
+      "number": "47",
+      "sprite": "/assets/sprites/.png",
+      "name": "Parasect",
+      "type1": "Bug",
+      "type2": "Grass"
+,
+"baseStat": "405"
+    },
+    {
+      "number": "48",
+      "sprite": "/assets/sprites/.png",
+      "name": "Venonat",
+      "type1": "Bug",
+      "type2": "Poison"
+,
+"baseStat": "305"
+    },
+    {
+      "number": "49",
+      "sprite": "/assets/sprites/.png",
+      "name": "Venomoth",
+      "type1": "Bug",
+      "type2": "Poison"
+,
+"baseStat": "450"
+    },
+    {
+      "number": "50",
+      "sprite": "/assets/sprites/.png",
+      "name": "Diglett",
+      "type1": "Ground",
+      "type2": ""
+,
+"baseStat": "265"
+    },
+    {
+      "number": "51",
+      "sprite": "/assets/sprites/.png",
+      "name": "Dugtrio",
+      "type1": "Ground",
+      "type2": ""
+,
+"baseStat": "405"
+    },
+    {
+      "number": "52",
+      "sprite": "/assets/sprites/.png",
+      "name": "Meowth",
+      "type1": "Normal",
+      "type2": ""
+,
+"baseStat": "290"
+    },
+    {
+      "number": "53",
+      "sprite": "/assets/sprites/.png",
+      "name": "Persian",
+      "type1": "Normal",
+      "type2": ""
+,
+"baseStat": "440"
+    },
+    {
+      "number": "54",
+      "sprite": "/assets/sprites/.png",
+      "name": "Psyduck",
+      "type1": "Water",
+      "type2": ""
+,
+"baseStat": "320"
+    },
+    {
+      "number": "55",
+      "sprite": "/assets/sprites/.png",
+      "name": "Golduck",
+      "type1": "Water",
+      "type2": ""
+,
+"baseStat": "500"
+    },
+    {
+      "number": "56",
+      "sprite": "/assets/sprites/.png",
+      "name": "Mankey",
+      "type1": "Fighting",
+      "type2": ""
+,
+"baseStat": "305"
+    },
+    {
+      "number": "57",
+      "sprite": "/assets/sprites/.png",
+      "name": "Primeape",
+      "type1": "Fighting",
+      "type2": ""
+,
+"baseStat": "455"
+    },
+    {
+      "number": "58",
+      "sprite": "/assets/sprites/.png",
+      "name": "Growlithe",
+      "type1": "Fire",
+      "type2": ""
+,
+"baseStat": "350"
+    },
+    {
+      "number": "59",
+      "sprite": "/assets/sprites/.png",
+      "name": "Arcanine",
+      "type1": "Fire",
+      "type2": ""
+,
+"baseStat": "555"
+    },
+    {
+      "number": "60",
+      "sprite": "/assets/sprites/.png",
+      "name": "Poliwag",
+      "type1": "Water",
+      "type2": ""
+,
+"baseStat": "300"
+    },
+    {
+      "number": "61",
+      "sprite": "/assets/sprites/.png",
+      "name": "Poliwhirl",
+      "type1": "Water",
+      "type2": ""
+,
+"baseStat": "385"
+    },
+    {
+      "number": "62",
+      "sprite": "/assets/sprites/.png",
+      "name": "Poliwrath",
+      "type1": "Water",
+      "type2": "Fighting"
+,
+"baseStat": "500"
+    },
+    {
+      "number": "63",
+      "sprite": "/assets/sprites/63.png",
+      "name": "Abra",
+      "type1": "Psychic",
+      "type2": ""
+,
+"baseStat": "310"
+    },
+    {
+      "number": "64",
+      "sprite": "/assets/sprites/.png",
+      "name": "Kadabra",
+      "type1": "Psychic",
+      "type2": ""
+,
+"baseStat": "400"
+    },
+    {
+      "number": "65",
+      "sprite": "/assets/sprites/.png",
+      "name": "Alakazam",
+      "type1": "Psychic",
+      "type2": ""
+,
+"baseStat": "490"
+    },
+    {
+      "number": "66",
+      "sprite": "/assets/sprites/.png",
+      "name": "Machop",
+      "type1": "Fighting",
+      "type2": ""
+,
+"baseStat": "305"
+    },
+    {
+      "number": "67",
+      "sprite": "/assets/sprites/.png",
+      "name": "Machoke",
+      "type1": "Fighting",
+      "type2": ""
+,
+"baseStat": "405"
+    },
+    {
+      "number": "68",
+      "sprite": "/assets/sprites/.png",
+      "name": "Machamp",
+      "type1": "Fighting",
+      "type2": ""
+,
+"baseStat": "505"
+    },
+    {
+      "number": "69",
+      "sprite": "/assets/sprites/.png",
+      "name": "Bellsprout",
+      "type1": "Grass",
+      "type2": "Poison"
+,
+"baseStat": "300"
+    },
+    {
+      "number": "70",
+      "sprite": "/assets/sprites/.png",
+      "name": "Weepinbell",
+      "type1": "Grass",
+      "type2": "Poison"
+,
+"baseStat": "390"
+    },
+    {
+      "number": "71",
+      "sprite": "/assets/sprites/.png",
+      "name": "Victreebel",
+      "type1": "Grass",
+      "type2": "Poison"
+,
+"baseStat": "480"
+    },
+    {
+      "number": "72",
+      "sprite": "/assets/sprites/.png",
+      "name": "Tentacool",
+      "type1": "Water",
+      "type2": "Poison"
+,
+"baseStat": "335"
+    },
+    {
+      "number": "73",
+      "sprite": "/assets/sprites/.png",
+      "name": "Tentacruel",
+      "type1": "Water",
+      "type2": "Poison"
+,
+"baseStat": "515"
+    },
+    {
+      "number": "74",
+      "sprite": "/assets/sprites/.png",
+      "name": "Geodude",
+      "type1": "Rock",
+      "type2": "Ground"
+,
+"baseStat": "300"
+    },
+    {
+      "number": "75",
+      "sprite": "/assets/sprites/.png",
+      "name": "Graveler",
+      "type1": "Rock",
+      "type2": "Ground"
+,
+"baseStat": "390"
+    },
+    {
+      "number": "76",
+      "sprite": "/assets/sprites/.png",
+      "name": "Golem",
+      "type1": "Rock",
+      "type2": "Ground"
+,
+"baseStat": "485"
+    },
+    {
+      "number": "77",
+      "sprite": "/assets/sprites/.png",
+      "name": "Ponyta",
+      "type1": "Fire",
+      "type2": ""
+,
+"baseStat": "410"
+    },
+    {
+      "number": "78",
+      "sprite": "/assets/sprites/.png",
+      "name": "Rapidash",
+      "type1": "Fire",
+      "type2": ""
+,
+"baseStat": "500"
+    },
+    {
+      "number": "79",
+      "sprite": "/assets/sprites/.png",
+      "name": "Slowpoke",
+      "type1": "Water",
+      "type2": "Psychic"
+,
+"baseStat": "315"
+    },
+    {
+      "number": "80",
+      "sprite": "/assets/sprites/.png",
+      "name": "Slowbro",
+      "type1": "Water",
+      "type2": "Psychic"
+,
+"baseStat": "490"
+    },
+    {
+      "number": "81",
+      "sprite": "/assets/sprites/.png",
+      "name": "Magnemite",
+      "type1": "Electric",
+      "type2": "Steel"
+,
+"baseStat": "325"
+    },
+    {
+      "number": "82",
+      "sprite": "/assets/sprites/.png",
+      "name": "Magneton",
+      "type1": "Electric",
+      "type2": "Steel"
+,
+"baseStat": "465"
+    },
+    {
+      "number": "83",
+      "sprite": "/assets/sprites/.png",
+      "name": "Farfetch'd",
+      "type1": "Normal",
+      "type2": "Flying"
+,
+"baseStat": "352"
+    },
+    {
+      "number": "84",
+      "sprite": "/assets/sprites/.png",
+      "name": "Doduo",
+      "type1": "Normal",
+      "type2": "Flying"
+,
+"baseStat": "310"
+    },
+    {
+      "number": "85",
+      "sprite": "/assets/sprites/85.png",
+      "name": "Dodrio",
+      "type1": "Normal",
+      "type2": "Flying"
+,
+"baseStat": "460"
+    },
+    {
+      "number": "86",
+      "sprite": "/assets/sprites/.png",
+      "name": "Seel",
+      "type1": "Water",
+      "type2": ""
+,
+"baseStat": "325"
+    },
+    {
+      "number": "87",
+      "sprite": "/assets/sprites/.png",
+      "name": "Dewgong",
+      "type1": "Water",
+      "type2": "Ice"
+,
+"baseStat": "475"
+    },
+    {
+      "number": "88",
+      "sprite": "/assets/sprites/.png",
+      "name": "Grimer",
+      "type1": "Poison",
+      "type2": ""
+,
+"baseStat": "325"
+    },
+    {
+      "number": "89",
+      "sprite": "/assets/sprites/.png",
+      "name": "Muk",
+      "type1": "Poison",
+      "type2": ""
+,
+"baseStat": "500"
+    },
+    {
+      "number": "90",
+      "sprite": "/assets/sprites/.png",
+      "name": "Shellder",
+      "type1": "Water",
+      "type2": ""
+,
+"baseStat": "305"
+    },
+    {
+      "number": "91",
+      "sprite": "/assets/sprites/.png",
+      "name": "Cloyster",
+      "type1": "Water",
+      "type2": "Ice"
+,
+"baseStat": "525"
+    },
+    {
+      "number": "92",
+      "sprite": "/assets/sprites/.png",
+      "name": "Gastly",
+      "type1": "Ghost",
+      "type2": "Poison"
+,
+"baseStat": "310"
+    },
+    {
+      "number": "93",
+      "sprite": "/assets/sprites/.png",
+      "name": "Haunter",
+      "type1": "Ghost",
+      "type2": "Poison"
+,
+"baseStat": "405"
+    },
+    {
+      "number": "94",
+      "sprite": "/assets/sprites/.png",
+      "name": "Gengar",
+      "type1": "Ghost",
+      "type2": "Poison"
+,
+"baseStat": "500"
+    },
+    {
+      "number": "95",
+      "sprite": "/assets/sprites/.png",
+      "name": "Onix",
+      "type1": "Rock",
+      "type2": "Ground"
+,
+"baseStat": "385"
+    },
+    {
+      "number": "96",
+      "sprite": "/assets/sprites/.png",
+      "name": "Drowzee",
+      "type1": "Psychic",
+      "type2": ""
+,
+"baseStat": "328"
+    },
+    {
+      "number": "97",
+      "sprite": "/assets/sprites/.png",
+      "name": "Hypno",
+      "type1": "Psychic",
+      "type2": ""
+,
+"baseStat": "483"
+    },
+    {
+      "number": "98",
+      "sprite": "/assets/sprites/.png",
+      "name": "Krabby",
+      "type1": "Water",
+      "type2": ""
+,
+"baseStat": "325"
+    },
+    {
+      "number": "99",
+      "sprite": "/assets/sprites/.png",
+      "name": "Kingler",
+      "type1": "Water",
+      "type2": ""
+,
+"baseStat": "475"
+    },
+    {
+      "number": "100",
+      "sprite": "/assets/sprites/.png",
+      "name": "Voltorb",
+      "type1": "Electric",
+      "type2": ""
+,
+"baseStat": "330"
+    },
+    {
+      "number": "101",
+      "sprite": "/assets/sprites/.png",
+      "name": "Electrode",
+      "type1": "Electric",
+      "type2": ""
+,
+"baseStat": "480"
+    },
+    {
+      "number": "102",
+      "sprite": "/assets/sprites/.png",
+      "name": "Exeggcute",
+      "type1": "Grass",
+      "type2": "Psychic"
+,
+"baseStat": "325"
+    },
+    {
+      "number": "103",
+      "sprite": "/assets/sprites/.png",
+      "name": "Exeggutor",
+      "type1": "Grass",
+      "type2": "Psychic"
+,
+"baseStat": "520"
+    },
+    {
+      "number": "104",
+      "sprite": "/assets/sprites/104.png",
+      "name": "Cubone",
+      "type1": "Ground",
+      "type2": ""
+,
+"baseStat": "320"
+    },
+    {
+      "number": "105",
+      "sprite": "/assets/sprites/.png",
+      "name": "Marowak",
+      "type1": "Ground",
+      "type2": ""
+,
+"baseStat": "425"
+    },
+    {
+      "number": "106",
+      "sprite": "/assets/sprites/.png",
+      "name": "Hitmonlee",
+      "type1": "Fighting",
+      "type2": ""
+,
+"baseStat": "455"
+    },
+    {
+      "number": "107",
+      "sprite": "/assets/sprites/.png",
+      "name": "Hitmonchan",
+      "type1": "Fighting",
+      "type2": ""
+,
+"baseStat": "455"
+    },
+    {
+      "number": "108",
+      "sprite": "/assets/sprites/.png",
+      "name": "Lickitung",
+      "type1": "Normal",
+      "type2": ""
+,
+"baseStat": "385"
+    },
+    {
+      "number": "109",
+      "sprite": "/assets/sprites/.png",
+      "name": "Koffing",
+      "type1": "Poison",
+      "type2": ""
+,
+"baseStat": "340"
+    },
+    {
+      "number": "110",
+      "sprite": "/assets/sprites/.png",
+      "name": "Weezing",
+      "type1": "Poison",
+      "type2": ""
+,
+"baseStat": "490"
+    },
+    {
+      "number": "111",
+      "sprite": "/assets/sprites/.png",
+      "name": "Rhyhorn",
+      "type1": "Ground",
+      "type2": "Rock"
+,
+"baseStat": "345"
+    },
+    {
+      "number": "112",
+      "sprite": "/assets/sprites/.png",
+      "name": "Rhydon",
+      "type1": "Ground",
+      "type2": "Rock"
+,
+"baseStat": "485"
+    },
+    {
+      "number": "113",
+      "sprite": "/assets/sprites/.png",
+      "name": "Chansey",
+      "type1": "Normal",
+      "type2": ""
+,
+"baseStat": "450"
+    },
+    {
+      "number": "114",
+      "sprite": "/assets/sprites/.png",
+      "name": "Tangela",
+      "type1": "Grass",
+      "type2": ""
+,
+"baseStat": "435"
+    },
+    {
+      "number": "115",
+      "sprite": "/assets/sprites/.png",
+      "name": "Kangaskhan",
+      "type1": "Normal",
+      "type2": ""
+,
+"baseStat": "490"
+    },
+    {
+      "number": "116",
+      "sprite": "/assets/sprites/.png",
+      "name": "Horsea",
+      "type1": "Water",
+      "type2": ""
+,
+"baseStat": "295"
+    },
+    {
+      "number": "117",
+      "sprite": "/assets/sprites/.png",
+      "name": "Seadra",
+      "type1": "Water",
+      "type2": ""
+,
+"baseStat": "440"
+    },
+    {
+      "number": "118",
+      "sprite": "/assets/sprites/.png",
+      "name": "Goldeen",
+      "type1": "Water",
+      "type2": ""
+,
+"baseStat": "320"
+    },
+    {
+      "number": "119",
+      "sprite": "/assets/sprites/.png",
+      "name": "Seaking",
+      "type1": "Water",
+      "type2": ""
+,
+"baseStat": "450"
+    },
+    {
+      "number": "120",
+      "sprite": "/assets/sprites/.png",
+      "name": "Staryu",
+      "type1": "Water",
+      "type2": ""
+,
+"baseStat": "340"
+    },
+    {
+      "number": "121",
+      "sprite": "/assets/sprites/.png",
+      "name": "Starmie",
+      "type1": "Water",
+      "type2": "Psychic"
+,
+"baseStat": "520"
+    },
+    {
+      "number": "122",
+      "sprite": "/assets/sprites/.png",
+      "name": "Mr. Mime",
+      "type1": "Psychic",
+      "type2": ""
+,
+"baseStat": "460"
+    },
+    {
+      "number": "123",
+      "sprite": "/assets/sprites/.png",
+      "name": "Scyther",
+      "type1": "Bug",
+      "type2": "Flying"
+,
+"baseStat": "500"
+    },
+    {
+      "number": "124",
+      "sprite": "/assets/sprites/124.png",
+      "name": "Jynx",
+      "type1": "Ice",
+      "type2": "Psychic"
+,
+"baseStat": "455"
+    },
+    {
+      "number": "125",
+      "sprite": "/assets/sprites/.png",
+      "name": "Electabuzz",
+      "type1": "Electric",
+      "type2": ""
+,
+"baseStat": "490"
+    },
+    {
+      "number": "126",
+      "sprite": "/assets/sprites/.png",
+      "name": "Magmar",
+      "type1": "Fire",
+      "type2": ""
+,
+"baseStat": "495"
+    },
+    {
+      "number": "127",
+      "sprite": "/assets/sprites/.png",
+      "name": "Pinsir",
+      "type1": "Bug",
+      "type2": ""
+,
+"baseStat": "500"
+    },
+    {
+      "number": "128",
+      "sprite": "/assets/sprites/.png",
+      "name": "Tauros",
+      "type1": "Normal",
+      "type2": ""
+,
+"baseStat": "490"
+    },
+    {
+      "number": "129",
+      "sprite": "/assets/sprites/.png",
+      "name": "Magikarp",
+      "type1": "Water",
+      "type2": ""
+,
+"baseStat": "200"
+    },
+    {
+      "number": "130",
+      "sprite": "/assets/sprites/.png",
+      "name": "Gyarados",
+      "type1": "Water",
+      "type2": "Flying"
+,
+"baseStat": "540"
+    },
+    {
+      "number": "131",
+      "sprite": "/assets/sprites/.png",
+      "name": "Lapras",
+      "type1": "Water",
+      "type2": "Ice"
+,
+"baseStat": "535"
+    },
+    {
+      "number": "132",
+      "sprite": "/assets/sprites/.png",
+      "name": "Ditto",
+      "type1": "Normal",
+      "type2": ""
+,
+"baseStat": "288"
+    },
+    {
+      "number": "133",
+      "sprite": "/assets/sprites/.png",
+      "name": "Eevee",
+      "type1": "Normal",
+      "type2": ""
+,
+"baseStat": "325"
+    },
+    {
+      "number": "134",
+      "sprite": "/assets/sprites/134.png",
+      "name": "Vaporeon",
+      "type1": "Water",
+      "type2": ""
+,
+"baseStat": "525"
+    },
+    {
+      "number": "135",
+      "sprite": "/assets/sprites/.png",
+      "name": "Jolteon",
+      "type1": "Electric",
+      "type2": ""
+,
+"baseStat": "525"
+    },
+    {
+      "number": "136",
+      "sprite": "/assets/sprites/.png",
+      "name": "Flareon",
+      "type1": "Fire",
+      "type2": ""
+,
+"baseStat": "525"
+    },
+    {
+      "number": "137",
+      "sprite": "/assets/sprites/.png",
+      "name": "Porygon",
+      "type1": "Normal",
+      "type2": ""
+,
+"baseStat": "395"
+    },
+    {
+      "number": "138",
+      "sprite": "/assets/sprites/138.png",
+      "name": "Omanyte",
+      "type1": "Rock",
+      "type2": "Water"
+,
+"baseStat": "355"
+    },
+    {
+      "number": "139",
+      "sprite": "/assets/sprites/139.png",
+      "name": "Omastar",
+      "type1": "Rock",
+      "type2": "Water"
+,
+"baseStat": "495"
+    },
+    {
+      "number": "140",
+      "sprite": "/assets/sprites/.png",
+      "name": "Kabuto",
+      "type1": "Rock",
+      "type2": "Water"
+,
+"baseStat": "355"
+    },
+    {
+      "number": "141",
+      "sprite": "/assets/sprites/.png",
+      "name": "Kabutops",
+      "type1": "Rock",
+      "type2": "Water"
+,
+"baseStat": "495"
+    },
+    {
+      "number": "142",
+      "sprite": "/assets/sprites/.png",
+      "name": "Aerodactyl",
+      "type1": "Rock",
+      "type2": "Flying"
+,
+"baseStat": "515"
+    },
+    {
+      "number": "143",
+      "sprite": "/assets/sprites/.png",
+      "name": "Snorlax",
+      "type1": "Normal",
+      "type2": ""
+,
+"baseStat": "540"
+    },
+    {
+      "number": "144",
+      "sprite": "/assets/sprites/.png",
+      "name": "Articuno",
+      "type1": "Ice",
+      "type2": "Flying"
+,
+"baseStat": "580"
+    },
+    {
+      "number": "145",
+      "sprite": "/assets/sprites/.png",
+      "name": "Zapdos",
+      "type1": "Electric",
+      "type2": "Flying"
+,
+"baseStat": "580"
+    },
+    {
+      "number": "146",
+      "sprite": "/assets/sprites/.png",
+      "name": "Moltres",
+      "type1": "Fire",
+      "type2": "Flying"
+,
+"baseStat": "580"
+    },
+    {
+      "number": "147",
+      "sprite": "/assets/sprites/.png",
+      "name": "Dratini",
+      "type1": "Dragon",
+      "type2": ""
+,
+"baseStat": "300"
+    },
+    {
+      "number": "148",
+      "sprite": "/assets/sprites/.png",
+      "name": "Dragonair",
+      "type1": "Dragon",
+      "type2": ""
+,
+"baseStat": "420"
+    },
+    {
+      "number": "149",
+      "sprite": "/assets/sprites/.png",
+      "name": "Dragonite",
+      "type1": "Dragon",
+      "type2": "Flying"
+,
+"baseStat": "600"
+    },
+    {
+      "number": "150",
+      "sprite": "/assets/sprites/.png",
+      "name": "Mewtwo",
+      "type1": "Psychic",
+      "type2": ""
+,
+"baseStat": "680"
+    },
+    {
+      "number": "151",
+      "sprite": "/assets/sprites/.png",
+      "name": "Mew",
+      "type1": "Psychic",
+      "type2": ""
+,
+"baseStat": "600"
+    }
+  ]
+}
