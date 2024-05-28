@@ -937,6 +937,541 @@
         "It can purify air around it, making forests healthy and lush.",
         "This pokemon's leaf-like tail is both sharp and flexible, used for slicing through obstacles."
     ]
+},
+{
+  "number": "234",
+  "name": "Stantler",
+  "type1": "Normal",
+  "type2": "",
+  "baseStat": "465",
+  "funFacts": [
+      "This pokemon's antlers can distort reality, creating illusions.",
+      "Its antlers are prized as a valuable material for making special glasses.",
+      "This pokemon's curved antlers subtly change the flow of air to confuse its opponents.",
+      "It can create a pleasant odor to calm and attract Pokémon.",
+      "This pokemon is known as the 'Big Horn' Pokémon."
+  ]
+},
+{
+  "number": "235",
+  "name": "Smeargle",
+  "type1": "Normal",
+  "type2": "",
+  "baseStat": "250",
+  "funFacts": [
+      "This pokemon is known for its ability to use the move Sketch to permanently learn any move.",
+      "Its tail secretes a fluid that changes color with its emotions.",
+      "This pokemon often marks its territory with its tail paint.",
+      "Each This pokemon has a unique paint pattern on its tail.",
+      "It is known as the 'Painter' Pokémon."
+  ]
+},
+{
+  "number": "236",
+  "name": "Tyrogue",
+  "type1": "Fighting",
+  "type2": "",
+  "baseStat": "210",
+  "funFacts": [
+      "This pokemon evolves into 3 different pokemon depending on its stats.",
+      "It is known for its energetic and tenacious nature.",
+      "This pokemon constantly trains to become stronger and improve its fighting skills.",
+      "It is known as the 'Scuffle' Pokémon.",
+      "This pokemon often challenges others to test its strength."
+  ]
+},
+{
+  "number": "237",
+  "name": "Hitmontop",
+  "type1": "Fighting",
+  "type2": "",
+  "baseStat": "455",
+  "funFacts": [
+      "This pokemon spins on its head to deliver powerful kicks.",
+      "It maintains balance by tightening its abdomen muscles.",
+      "This pokemon evolves from Tyrogue when its Defense is higher than its Attack.",
+      "It can spin at high speeds to evade attacks.",
+      "This pokemon is known for its unique fighting style, combining spinning and kicking."
+  ]
+},
+{
+  "number": "238",
+  "name": "Smoochum",
+  "type1": "Ice",
+  "type2": "Psychic",
+  "baseStat": "305",
+  "funFacts": [
+      "This pokemon evolves starting at level 30.",
+      "It is known for constantly testing things with its lips.",
+      "This pokemon's lips are very sensitive, helping it to sense its surroundings.",
+      "It is known as the 'Kiss' Pokémon.",
+      "This pokemon is highly expressive and often shows its emotions through its behavior."
+  ]
+},
+{
+  "number": "239",
+  "name": "Elekid",
+  "type1": "Electric",
+  "type2": "",
+  "baseStat": "360",
+  "funFacts": [
+      "EleThis pokemonkid evolves starting at level 30.",
+      "It generates electricity by spinning its arms.",
+      "This pokemon often zaps itself while playing.",
+      "Its body acts as a small generator, constantly emitting sparks.",
+      "This pokemon is known for its playful and mischievous nature."
+  ]
+},
+{
+  "number": "240",
+  "name": "Magby",
+  "type1": "Fire",
+  "type2": "",
+  "baseStat": "365",
+  "funFacts": [
+      "This pokemon evolves into Magmar starting at level 30.",
+      "It breathes 1,100-degree Fahrenheit flames.",
+      "This pokemon can be seen practicing its fire-breathing in preparation for evolution.",
+      "Its health can be determined by the flames it breathes; when healthy it blow out yellow flames.",
+      "This pokemon is known for its energetic and curious personality."
+  ]
+},
+{
+  "number": "241",
+  "name": "Miltank",
+  "type1": "Normal",
+  "type2": "",
+  "baseStat": "490",
+  "funFacts": [
+      "This pokemon produces highly nutritious milk, popular with both Pokémon and humans.",
+      "It is known for its calming and nurturing nature.",
+      "This pokemon can heal itself by drinking its own milk, using the move Milk Drink.",
+      "It is often found in dairy farms in the Pokémon world.",
+      "This pokemon's milk is said to make anyone who drinks it grow stronger."
+  ]
+},
+{
+  "number": "242",
+  "name": "Blissey",
+  "type1": "Normal",
+  "type2": "",
+  "baseStat": "540",
+  "funFacts": [
+      "This pokemon evolves from its preevolution when leveled up with high friendship.",
+      "It is known for its extremely high HP and special defense stats.",
+      "This pokemon's eggs are filled with happiness and can soothe and calm emotions.",
+      "It is known as the 'Happiness' Pokémon.",
+      "This pokemon is often seen in Pokémon Centers, aiding in the care of sick or injured Pokémon."
+  ]
+},
+{
+  "number": "243",
+  "name": "Raikou",
+  "type1": "Electric",
+  "type2": "",
+  "baseStat": "580",
+  "funFacts": [
+      "This pokemon is one of the Legendary Beasts revived by Ho-Oh.",
+      "It embodies the speed and power of lightning.",
+      "This pokemon can produce storm clouds to hide itself.",
+      "Its roar can create thunderclouds.",
+      "This pokemon travels swiftly, leaving a trail of sparks in its wake."
+  ]
+},
+{
+  "number": "245",
+  "name": "Suicune",
+  "type1": "Water",
+  "type2": "",
+  "baseStat": "580",
+  "funFacts": [
+      "This pokemon is one of the Legendary Beasts revived by Ho-Oh.",
+      "It embodies the purity and tranquility of flowing water.",
+      "This pokemon can purify dirty water with a mere touch.",
+      "It is known for its graceful and swift movements.",
+      "This pokemon is often seen racing across the surface of lakes and rivers."
+  ]
+},
+{
+  "number": "246",
+  "name": "Larvitar",
+  "type1": "Rock",
+  "type2": "Ground",
+  "baseStat": "300",
+  "funFacts": [
+      "This pokemon evolves starting at level 30.",
+      "It feeds on soil to gain the nutrients it needs to grow.",
+      "This pokemon is known for its determination and toughness.",
+      "It can move through the ground by eating its way through.",
+      "This pokemon is known as the 'Rock Skin' Pokémon."
+  ]
+},
+{
+  "number": "247",
+  "name": "Pupitar",
+  "type1": "Rock",
+  "type2": "Ground",
+  "baseStat": "410",
+  "funFacts": [
+      "This pokemon evolves from Larvitar starting at level 30 and evolves into Tyranitar starting at level 55.",
+      "Its body is as hard as bedrock, providing excellent defense.",
+      "This pokemon can move by expelling gas to propel itself forward.",
+      "It is known as the 'Hard Shell' Pokémon.",
+      "This pokemon is often found buried in the ground, waiting to evolve."
+  ]
+},
+{
+  "number": "248",
+  "name": "Tyranitar",
+  "type1": "Rock",
+  "type2": "Dark",
+  "baseStat": "600",
+  "funFacts": [
+      "This pokemon evolves from its preevolution starting at level 55.",
+      "It is known for its incredible strength and durability.",
+      "Tyranitar can create earthquakes by stamping its feet.",
+      "It is known as the 'Armor' Pokémon.",
+      "This pokemon's Mega Evolution, gains even greater power and defensive capabilities."
+  ]
+},
+{
+  "number": "249",
+  "name": "Lugia",
+  "type1": "Psychic",
+  "type2": "Flying",
+  "baseStat": "680",
+  "funFacts": [
+      "This pokemon is known as the Guardian of the Seas.",
+      "It is said to be able to calm storms with its mere presence.",
+      "This pokemon's wings are so powerful that they can cause storms by just flapping them.",
+      "It prefers to live deep underwater to avoid causing accidental storms.",
+      "This pokemon is often associated with the Legendary Birds: Articuno, Zapdos, and Moltres."
+  ]
+},
+{
+  "number": "99",
+  "name": "Kingler",
+  "type1": "Water",
+  "type2": "",
+  "baseStat": "475",
+  "funFacts": [
+      "This pokemon's large claw is immensely powerful, capable of crushing even solid rock.",
+      "Its claw is so heavy that This pokemon sometimes struggles to lift it.",
+      "This pokemon can communicate with others by waving its claws around.",
+      "In the wild, This pokemon is often seen using its claw to dig up food from the sea floor.",
+      "This pokemon evolves from its preevolution starting at level 28."
+  ]
+},
+{
+  "number": "100",
+  "name": "Voltorb",
+  "type1": "Electric",
+  "type2": "",
+  "baseStat": "330",
+  "funFacts": [
+      "This pokemon is known for its resemblance to a Poké Ball.",
+      "It was first discovered in a company manufacturing Poké Balls.",
+      "This pokemon is known to self-destruct when threatened.",
+      "Its origins are a mystery, and some believe it may be an artificial Pokémon.",
+      "This pokemon is often found near power plants and other electrical sources."
+  ]
+},
+{
+  "number": "102",
+  "name": "Exeggcute",
+  "type1": "Grass",
+  "type2": "Psychic",
+  "baseStat": "325",
+  "funFacts": [
+      "This pokemon is a group of six eggs that communicate via telepathy.",
+      "It evolves when exposed to a Leaf Stone.",
+      "Despite their appearance, This pokemon are more like seeds than actual eggs.",
+      "If an This pokemon becomes separated, it quickly reunites with the others.",
+      "They gather under trees to avoid being eaten by bird Pokémon."
+  ]
+},
+{
+  "number": "104",
+  "sprite": "/assets/sprites/104.png",
+  "name": "Cubone",
+  "type1": "Ground",
+  "type2": "",
+  "baseStat": "320",
+  "funFacts": [
+      "This pokemon is known as the 'Lonely Pokémon' due to its solitary nature.",
+      "It wears the skull of its deceased mother as a helmet.",
+      "This pokemon cries for its lost mother, and the sound is said to echo mournfully.",
+      "It evolves starting at level 28.",
+      "This pokemon's bone club is its primary weapon, which it uses skillfully in battle."
+  ]
+},
+{
+  "number": "106",
+  "name": "Hitmonlee",
+  "type1": "Fighting",
+  "type2": "",
+  "baseStat": "455",
+  "funFacts": [
+      "This pokemon is known for its incredibly powerful and flexible legs.",
+      "It can extend its legs to kick opponents from a distance.",
+      "This pokemon evolves from Tyrogue when its Attack is higher than its Defense.",
+      "It is known as the 'Kicking Fiend' due to its martial arts prowess.",
+      "This pokemon's kicks are so fast that they can leave its opponents unable to move."
+  ]
+},
+{
+  "number": "107",
+  "name": "Hitmonchan",
+  "type1": "Fighting",
+  "type2": "",
+  "baseStat": "455",
+  "funFacts": [
+      "This pokemon specializes in punching moves and has a punch for every situation.",
+      "It evolves from Tyrogue when its Defense is higher than its Attack.",
+      "This pokemon's punches are incredibly fast and powerful.",
+      "It is known as the 'Punching Demon' due to its boxing skills.",
+      "This pokemon wears a unique tunic and skirt, resembling a boxer's attire."
+  ]
+},
+{
+  "number": "108",
+  "name": "Lickitung",
+  "type1": "Normal",
+  "type2": "",
+  "baseStat": "385",
+  "funFacts": [
+      "This pokemon's tongue is over six feet long and can be extended at will.",
+      "Its tongue is covered in a sticky substance that can cause rashes if touched.",
+      "This pokemon can use its tongue for a variety of purposes, including battle and exploration.",
+      "It evolves into Lickilicky when leveled up while knowing the move Rollout.",
+      "This pokemon's sense of taste is highly developed, allowing it to taste even the faintest flavors."
+  ]
+},
+{
+  "number": "109",
+  "name": "Koffing",
+  "type1": "Poison",
+  "type2": "",
+  "baseStat": "340",
+  "funFacts": [
+      "This pokemon is filled with toxic gases that it can expel to attack its foes.",
+      "It is often found in polluted areas and thrives in toxic environments.",
+      "This pokemon evolves starting at level 35.",
+      "It is known for its happy and carefree demeanor, despite its toxic nature.",
+      "This pokemon can hover in the air by inflating the gases inside its body."
+  ]
+},
+{
+  "number": "111",
+  "name": "Rhyhorn",
+  "type1": "Ground",
+  "type2": "Rock",
+  "baseStat": "345",
+  "funFacts": [
+      "This pokemon's body is covered in a rock-hard hide that protects it from attacks.",
+      "It charges at anything that comes in its way, showing little regard for obstacles.",
+      "This pokemon evolves into Rhydon starting at level 42.",
+      "Despite its tough exterior, This pokemon has a relatively simple and forgetful mind.",
+      "It is known as the 'Spikes' Pokémon due to the sharp points on its body."
+  ]
+},
+{
+  "number": "113",
+  "name": "Chansey",
+  "type1": "Normal",
+  "type2": "",
+  "baseStat": "450",
+  "funFacts": [
+      "This pokemon is known for its gentle and nurturing nature, often helping others.",
+      "It carries a special egg in its pouch that is filled with happiness.",
+      "This pokemon evolves from its preevolution when leveled up while holding an Oval Stone during the day.",
+      "It can heal other Pokémon using its highly nutritious egg.",
+      "This pokemon's egg is so delicious that it is a favorite among people and Pokémon alike."
+  ]
+},
+{
+  "number": "244",
+  "name": "Entei",
+  "type1": "Fire",
+  "type2": "",
+  "baseStat": "580",
+  "funFacts": [
+      "This pokemon is one of the Legendary Beasts revived by Ho-Oh.",
+      "It embodies the ferocity and intensity of volcanic eruptions.",
+      "Whenever This pokemon roars, a volcano erupts somewhere in the world.",
+      "It can run across the land at incredible speeds.",
+      "This pokemon's presence brings intense heat and flames."
+  ]
+},
+{
+  "number": "255",
+  "name": "Torchic",
+  "type1": "Fire",
+  "type2": "",
+  "baseStat": "310",
+  "funFacts": [
+      "This pokemon evolves into Combusken starting at level 16.",
+      "It has a flame sac inside its belly that keeps it warm.",
+      "This pokemon is known for its cheerful and friendly nature.",
+      "It can spit fireballs capable of scorching its foes.",
+      "This pokemon often follows its Trainer around, seeking warmth and protection."
+  ]
+},
+{
+  "number": "258",
+  "name": "Mudkip",
+  "type1": "Water",
+  "type2": "",
+  "baseStat": "310",
+  "funFacts": [
+      "This pokemon evolves into Marshtomp starting at level 16.",
+      "Its fin acts as a highly sensitive radar, helping it sense movements in the water.",
+      "This pokemon is known for its playful and adventurous nature.",
+      "It can crush rocks with its powerful jaws.",
+      "This pokemon is often found in swamps and wetlands."
+  ]
+},
+{
+  "number": "479",
+  "name": "Rotom",
+  "type1": "Electric",
+  "type2": "Ghost",
+  "baseStat": "440",
+  "funFacts": [
+      "This pokemon can inhabit electrical appliances, changing its form and type.",
+      "It is known for its mischievous and playful behavior.",
+      "This pokemon's name is derived from 'motor,' reflecting its ability to possess machines.",
+      "In its different forms, This pokemon can take on various types like Water, Fire, Ice, and more.",
+      "This pokemon is often found in places with a lot of electrical equipment, such as power plants."
+  ]
+},
+{
+  "number": "171",
+  "name": "Lanturn",
+  "type1": "Water",
+  "type2": "Electric",
+  "baseStat": "460",
+  "funFacts": [
+      "This pokemon is known as the 'Light Pokémon' due to its ability to emit light from its antenna.",
+      "It uses its light to attract and stun prey in deep ocean waters.",
+      "This pokemon's light can illuminate the darkest depths of the ocean.",
+      "It evolves from its preevolution starting at level 27.",
+      "This pokemon's light is often mistaken for a star by sailors."
+  ]
+},
+{
+  "number": "177",
+  "name": "Natu",
+  "type1": "Psychic",
+  "type2": "Flying",
+  "baseStat": "320",
+  "funFacts": [
+      "This pokemon is known for its keen ability to foresee the future using its psychic powers.",
+      "It often stands still to observe its surroundings, appearing almost statue-like.",
+      "This pokemon evolves starting at level 25.",
+      "Its large eyes give it a wide field of vision.",
+      "This pokemon is often found in ruins, where it perches quietly."
+  ]
+},
+{
+  "number": "213",
+  "name": "Shuckle",
+  "type1": "Bug",
+  "type2": "Rock",
+  "baseStat": "505",
+  "funFacts": [
+      "This pokemon is known for its incredibly high Defense and Special Defense stats.",
+      "It stores berries inside its shell, which it uses to create berry juice.",
+      "Despite its defensive prowess, This pokemon is very slow.",
+      "This pokemon's shell is so tough that it can withstand a blow from a powerful Pokémon.",
+      "In the wild, This pokemon hides under rocks to avoid predators."
+  ]
+},
+{
+  "number": "216",
+  "name": "Teddiursa",
+  "type1": "Normal",
+  "type2": "",
+  "baseStat": "330",
+  "funFacts": [
+      "This pokemon loves to collect and eat honey, which it stores in its paws.",
+      "It evolves starting at level 30.",
+      "This pokemon's paws are always sticky with honey.",
+      "It uses its sensitive nose to find honey hidden by other Pokémon.",
+      "This pokemon often licks its paws to taste the honey it collects."
+  ]
+},
+{
+  "number": "218",
+  "name": "Slugma",
+  "type1": "Fire",
+  "type2": "",
+  "baseStat": "250",
+  "funFacts": [
+      "This pokemon's body is made of molten lava, and it needs to stay hot to remain active.",
+      "It evolves into Magcargo starting at level 38.",
+      "This pokemon is known for its slow movement, as it crawls along the ground.",
+      "If it cools down, its body will harden and it will become immobile.",
+      "This pokemon can melt through rocks and other obstacles using its fiery body."
+  ]
+},
+{
+  "number": "225",
+  "name": "Delibird",
+  "type1": "Ice",
+  "type2": "Flying",
+  "baseStat": "330",
+  "funFacts": [
+      "This pokemon carries food in its tail, which it uses to help other Pokémon.",
+      "It is known as the 'Delivery Pokémon' due to its habit of giving food to those in need.",
+      "This pokemon's signature move, Present, can either heal or damage its target.",
+      "It often travels long distances to deliver food and aid.",
+      "This pokemon's cheerful nature and gift-giving habits make it popular among trainers."
+  ]
+},
+{
+  "number": "231",
+  "name": "Phanpy",
+  "type1": "Ground",
+  "type2": "",
+  "baseStat": "330",
+  "funFacts": [
+      "This pokemon uses its strong trunk to shower itself with water and keep cool.",
+      "It evolves starting at level 25.",
+      "This pokemon is known for its playful and friendly nature.",
+      "Its large ears help it to hear distant sounds and sense approaching danger.",
+      "This pokemon's trunk is powerful enough to lift and carry heavy objects."
+  ]
+},
+{
+  "number": "94",
+  "name": "Gengar",
+  "type1": "Ghost",
+  "type2": "Poison",
+  "baseStat": "500",
+  "funFacts": [
+      "This pokemon is known for its mischievous and sinister behavior, often playing tricks on people.",
+      "It evolves from Haunter when traded, and is the final form of Gastly.",
+      "This pokemon can hide in shadows and is known to steal the heat from its surroundings.",
+      "It is said that This pokemon emerges from darkness to attack its prey.",
+      "This pokemon's presence can chill the air, causing a noticeable drop in temperature."
+  ]
+},
+{
+  "number": "150",
+  "name": "Mewtwo",
+  "type1": "Psychic",
+  "type2": "",
+  "baseStat": "680",
+  "funFacts": [
+      "This pokemon was created through genetic manipulation and is known as the 'Genetic Pokémon'.",
+      "It has incredible psychic powers, said to be the result of DNA splicing.",
+      "This pokemon is one of the most powerful Pokémon in existence.",
+      "It was originally created to be a weapon, but became self-aware and escaped.",
+      "This pokemon has been featured prominently in various Pokémon movies and media."
+  ]
 }
+
+
   ]
 }
