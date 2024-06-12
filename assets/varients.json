@@ -1,0 +1,355 @@
+{
+  "varients": [
+    [
+      {
+        "title": "Glacier",
+        "text": "Using only water types and ice types"
+      },
+      {
+        "title": "Earth",
+        "text": "Using only rock, ground, and grass types"
+      },
+      {
+        "title": "Spooky",
+        "text": "Using only ghost, psychic, dark, and dragon types"
+      },
+      {
+        "title": "Normal",
+        "text": "Using only normal types"
+      },
+      {
+        "title": "Light",
+        "text": "Without using any dark type pokemon, or dark type moves"
+      },
+      {
+        "title": "Forest",
+        "text": "Using only bug, grass, flying and poison types"
+      },
+      {
+        "title": "Starter-Type",
+        "text": "Using only water, fire and grass types"
+      },
+      {
+        "title": "Firefighter",
+        "text": "Don't use any fire type pokemon or moves"
+      }
+    ],
+    [
+      {
+        "title": "Itemless",
+        "text": "Without using any items"
+      },
+      {
+        "title": "Berry",
+        "text": "Only healing with berries"
+      },
+      {
+        "title": "Anticapitalist",
+        "text": "Without buying any items"
+      },
+      {
+        "title": "Pokeball",
+        "text": "Without buying any Great Balls or Ultra Balls"
+      },
+      {
+        "title": "Variety",
+        "text": "Catching every pokemon in a different type of pokeball"
+      },
+      {
+        "title": "Unplugged",
+        "text": "Without using the PC, TMs, or any electric types"
+      },
+      {
+        "title": "Empty-Handed",
+        "text": "Without using held items"
+      },
+      {
+        "title": "Flat-tire",
+        "text": "Without using the bicycle (unless required)"
+      },
+      {
+        "title": "Poke-millionaire",
+        "text": "Game doesn't end until you accrue 1,000,000 pokedollars"
+      }
+    ],
+    [
+      {
+        "title": "Basic",
+        "text": "Using only pokemon that are unevolved"
+      },
+      {
+        "title": "Baby",
+        "text": "Using only pokemon that have a baby evolution"
+      },
+      {
+        "title": "Everstone",
+        "text": "Without evolving any pokemon after you catch them"
+      },
+      {
+        "title": "Mega",
+        "text": "Using only pokemon that have mega evolutions"
+      },
+      {
+        "title": "Evolution",
+        "text": "Using only pokemon that have evolutions"
+      },
+      {
+        "title": "Cute",
+        "text": "Using only pokemon that are cute"
+      },
+      {
+        "title": "Friendly",
+        "text": "Using only pokemon that evolve via friendship"
+      },
+      {
+        "title": "Stone",
+        "text": "Using only pokemon that evolve via evolution stones"
+      },
+      {
+        "title": "Ugly",
+        "text": "Using only pokemon that are ugly"
+      },
+      {
+        "title": "Steve",
+        "text": "Nickname all of your pokemon 'Steve'"
+      },
+      {
+        "title": "Hairy",
+        "text": "Using only pokemon that have hair/fur"
+      },
+      {
+        "title": "No-Bidoof",
+        "text": "You cannot use Bidoof on your team (sad)"
+      }
+    ],
+    [
+      {
+        "title": "Tackle",
+        "text": "All of your pokemon have to know tackle"
+      },
+      {
+        "title": "Growl",
+        "text": "All of your pokemon have to know growl"
+      },
+      {
+        "title": "HM",
+        "text": "Every pokemon has to learn an HM before the pokemon league"
+      },
+      {
+        "title": "Slow-mo",
+        "text": "Play without ever attacking first"
+      },
+      {
+        "title": "Sleepy-Head",
+        "text": "All of your pokemon need to learn moves that cause sleep"
+      },
+      {
+        "title": "Unique-Moves",
+        "text": "None of your pokemon can know the same move as another"
+      },
+      {
+        "title": "Challenger",
+        "text": "Defeat every trainer that is available to challenge"
+      },
+      {
+        "title": "Pacifist",
+        "text": "Only fight required trainers"
+      },
+      {
+        "title": "Healthy",
+        "text": "Release any pokemon that falls below half health"
+      },
+      {
+        "title": "No-Poison",
+        "text": "Release any pokemon that is ever poisoned"
+      },
+      {
+        "title": "Insomnia",
+        "text": "Release any pokemon that ever falls asleep"
+      }
+    ],
+    [
+      {
+        "title": "Trader",
+        "text": "Complete each of the game trades during the playthrough"
+      },
+      {
+        "title": "Wonder",
+        "text": "Wonder trade every pokemon that you catch"
+      },
+      {
+        "title": "Static",
+        "text": "Using only pokemon from the static encounters"
+      },
+      {
+        "title": "Shiny",
+        "text": "Using only shiny pokemon"
+      },
+      {
+        "title": "Egg",
+        "text": "Using only pokemon hatched from eggs"
+      },
+      {
+        "title": "Tall-Grass",
+        "text": "Using only pokemon encountered in tall grass"
+      },
+      {
+        "title": "Net",
+        "text": "Using only pokemon that are obtained in a cave or by fishing"
+      }
+    ],
+    [
+      {
+        "title": "Super-Effective",
+        "text": "Using only super effective moves"
+      },
+      {
+        "title": "Not-Effective",
+        "text": "Without using any super effective moves"
+      },
+      {
+        "title": "Status",
+        "text": "Using only status moves"
+      },
+      {
+        "title": "Damaging",
+        "text": "Without using any status moves"
+      },
+      {
+        "title": "STAB",
+        "text": "Using only STAB moves that are the same type as the user"
+      },
+      {
+        "title": "Fast",
+        "text": "No using moves that require 2 turns or more (bide, fly, etc)"
+      },
+      {
+        "title": "Special",
+        "text": "Using only special attacking moves"
+      },
+      {
+        "title": "Physical",
+        "text": "Using only physical attacking moves"
+      }
+
+    ],
+    [
+      {
+        "title": "Pet",
+        "text": "Using only dog, cat, hamster and ferret inspired pokemon"
+      },
+      {
+        "title": "Reptile",
+        "text": "Using only reptile, amphibian or dragon inspired pokemon"
+      },
+      {
+        "title": "Inanimate",
+        "text": "Using only pokemon inspired on inanimate objects (rocks, trash, pokeballs, etc.)"
+      },
+      {
+        "title": "2-feet",
+        "text": "Using only pokemon that walk on 2 feet"
+      },
+      {
+        "title": "Tails",
+        "text": "Using only pokemon that have tails"
+      },
+      {
+        "title": "Wings",
+        "text": "Using only pokemon that have wings"
+      }
+    ],
+    [
+      {
+        "title": "Vowel",
+        "text": "Using only pokemon that start with vowels"
+      },
+      {
+        "title": "N-U-Z-L-O-C-K-E",
+        "text": "Using only pokemon whose name starts with the letter N, U, Z, L, O, C, K, or E"
+      },
+      {
+        "title": "Gen-1er",
+        "text": "Using only pokemon that are from the first generation"
+      },
+      {
+        "title": "Odd",
+        "text": "Using only pokemon with Odd pokedex numbers"
+      },
+      {
+        "title": "Long-Name",
+        "text": "Using only pokemon with 7 or more letters in their name"
+      },
+      {
+        "title": "ABCs",
+        "text": "Each pokemon you catch must start with a different letter"
+      }
+    ],
+    [
+      {
+        "title": "Blue",
+        "text": "Using only pokemon with the color blue on them"
+      }
+      ,
+      {
+        "title": "Green",
+        "text": "Using only pokemon with the color green on them"
+      }
+      ,
+      {
+        "title": "Yellow",
+        "text": "Using only pokemon with the color yellow on them"
+      },
+      {
+        "title": "Red",
+        "text": "Using only pokemon with the color red on them"
+      },
+      {
+        "title": "Big-Eyes",
+        "text": "Using only pokemon with big eyes"
+      },
+      {
+        "title": "Small",
+        "text": "Using only pokemon that are shorter than 4 ft tall"
+      },
+      {
+        "title": "Heavy",
+        "text": "Using only pokemon that are heavier than 50kg"
+      }
+    ],
+    [
+      {
+        "title": "Small-Party",
+        "text": "Limit the amount of pokemon you can carry to 4"
+      },
+      {
+        "title": "Single",
+        "text": "Only carrying 1 pokemon at a time"
+      },
+      {
+        "title": "Low-Level",
+        "text": "With a level cap of 3 less than the next gym leader"
+      },
+      {
+        "title": "No-Insurance",
+        "text": "Without ever healing at a Pokecenter"
+      },
+      {
+        "title": "Single-Use",
+        "text": "You can only use each pokemon in 1 gym fight"
+      },
+      {
+        "title": "Litter-Bug",
+        "text": "You can't pick up any (non-required) items from the ground"
+      },
+      {
+        "title": "Marathon",
+        "text": "You must carry your starter for the whole game"
+      }
+    ]
+  ]
+
+}
+
+
+
